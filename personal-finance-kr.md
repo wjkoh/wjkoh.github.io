@@ -2,7 +2,7 @@
 ## Reimbursements
 구글은 mobile phone, home internet, education, wfh equipment, student loan reimbursements 등이 있다. wfh equipment가 구글은 $X. 세금 안 떼는 reimbursement가 꿀이지 ㅋㅋ 연봉은 조금 올라도 많이 떼간다. 모니터, 스탠딩 데스크, 헤드셋은 살 수 있을거야
 
-## Frequently asked questions and answers
+## Frequently asked questions
 ### S&P 500도 여러개던데?
 ETF도 있고 mutual fund도 있고 Vanguard로 치면 VOO 가 ETF고 VFIAX 같은게 mutual fund. s&p 500 index fund가 확실하면 운용사랑 expense ratio 보고 고르면 돼. 그런데 401k 같은건 보통 거기서 살 수 있는 mutual fund가 정해져있으니 거기서 고르면 되고 개인 계좌에서 사는건 너가 원하는 걸로 골라서 살 수 있어. 보통 brokerage에서 그 회사가 운영하는 펀드나 ETF 사면 혜택이 있지. 나는 charles schwab 계좌에서는 SWPPX 사고 뱅가드에선 VFIAX 사는데 어차피 다 똑같은 거야.
 
