@@ -1,6 +1,6 @@
 ---
 title: "Personal Finance (Korean)"
-permalink: /personal-finance-kr/
+permalink: /:basename/
 ---
 
 # Personal Finance (Korean)
