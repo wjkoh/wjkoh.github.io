@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Personal Finance (Korean)"
-permalink: /personal-finance-kr/
 ---
 
 # Personal Finance (Korean)
