@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
 title: Woojong Koh
+author: Woojong Koh
 description: My curriculum vitae, publications, and articles.
+github_username: wjkoh
+theme: jekyll-theme-slate
