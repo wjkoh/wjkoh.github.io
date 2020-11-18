@@ -1,5 +1,5 @@
 ---
-title: "Personal Finance (Korean)"
+title: Personal Finance (Korean)
 permalink: /:basename/
 ---
 
