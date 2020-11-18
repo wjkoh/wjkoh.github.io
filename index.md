@@ -1,4 +1,4 @@
-## Woojong Koh
+## About me
 
 Hi, my name is Woojong Koh and I'm a software engineer at [Waymo](https://waymo.com/), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques, such as convolutional neural network (CNN), recurrent neural network (RNN), and so on. Please refer to my CV and LinkedIn page for more information.
 
