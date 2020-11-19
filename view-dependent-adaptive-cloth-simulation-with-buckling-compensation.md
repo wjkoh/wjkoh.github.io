@@ -4,9 +4,9 @@ permalink: /:basename/
 publication: true
 date: 2015-10-01 00:00:00
 authors:
-  - name: **Woojong Koh**
-  - name: Rahul Narain
-  - name: James F. O'Brien
+ - **Woojong Koh**
+ - Rahul Narain
+ - James F. O'Brien
 journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
 ---
 
