@@ -14,7 +14,7 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 {%- endfor %}
 
 ## Course projects
-{%- assign pages = site.pages | where: "course_project", true -%}
+{% assign pages = site.pages | where: "course_project", true -%}
 {%- for page in pages -%}
  * [{{ page.title }}]({{ page.url }})
 {%- endfor %}
