@@ -11,11 +11,15 @@ journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
 ---
 
 ## View-Dependent Adaptive Cloth Simulation with Buckling Compensation
+
+{% assign author_array = "" | split: "/" %}
 {% for author_name in page.authors %}
-{%- assign author_profile = site.authors | where: "name", author_name | first -%}
-[{{ author_profile.content | remove: "<p>" | remove: "</p>" | strip_newlines }}]({{ author_profile.website }}), 
-{%- endfor %}.
-{{ page.authors | array_to_sentence_string }}.
+  {% assign author_profile = site.authors | where: "name", author_name | first %}
+  {% capture author_link %}{{ author_profile.content | remove: "<p>" | remove: "</p>" | strip_newlines }}{% endcapture %}
+  {% assign author_array = author_array | push: author_link %}
+{% endfor %}
+
+{{ author_array | array_to_sentence_string }}.
 {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
 
 **Woojong Koh**, [Rahul Narain](http://www.eecs.berkeley.edu/~narain/), and [James F. O'Brien](http://www.cs.berkeley.edu/~job/).
