@@ -28,6 +28,6 @@ Prior to joining Waymo, I was a fourth-year Ph.D. student in Computer Science at
 {%- endfor %}
 
 ## Links
- * [LinkedIn](https://www.linkedin.com/in/wjkoh)
+ * [My LinkedIn profile](https://www.linkedin.com/in/wjkoh)
 
 Last updated: 2020-11-18
