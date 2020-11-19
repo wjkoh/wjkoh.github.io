@@ -4,8 +4,6 @@ permalink: /:basename/
 ---
 
 # Personal Finance (Korean)
-Last updated: 2020-11-18
-
 ## Reimbursements
 구글은 mobile phone, home internet, education, wfh equipment, student loan reimbursements 등이 있다. wfh equipment가 구글은 $X. 세금 안 떼는 reimbursement가 꿀이지 ㅋㅋ 연봉은 조금 올라도 많이 떼간다. 모니터, 스탠딩 데스크, 헤드셋은 살 수 있을거야
 
@@ -22,3 +20,5 @@ ETF도 있고 mutual fund도 있고 Vanguard로 치면 VOO 가 ETF고 VFIAX 같�
 
 ### 돈 많이 벌어서 회계사 고용하면 안되나요?
 요즘은 회계사도 자기 택스할 때 turbotax 쓰는 시절이라 기본 컨셉만 알고 맞게 하나 틀리게 하나만 볼 수 있으면 돼. 예를 들어 너 수입이 100불이고 401k에 50불 넣었으면 소득세는 남은 50불에만 매겨져야 하는데 전체 100불에 매겨지면 뭔가 잘못된거지.
+
+Last updated: 2020-11-18
