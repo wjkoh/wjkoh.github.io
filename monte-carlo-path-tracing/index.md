@@ -3,8 +3,8 @@ title: Monte Carlo Path Tracing
 ---
 
 {% for image in site.static_files -%}
-{%- if image.path contains '/monte-carlo-path-tracing/' -%}
-<img src="{{ image.path }}" height="300"> 
+{%- if image.path contains '/:basename/' -%}
+<img src="{{ image.path }}" width="300"> 
 {%- endif -%}
 {%- endfor %}
 
