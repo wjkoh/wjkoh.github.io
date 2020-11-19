@@ -1,7 +1,6 @@
 ---
 title: Monte Carlo Path Tracing
-categories:
-- Course
+categories: Course
 ---
 {%- for image in site.static_files -%}
 {%- if image.path contains page.dir -%}
