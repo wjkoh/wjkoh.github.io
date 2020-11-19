@@ -1,6 +1,5 @@
 ---
 title: Monte Carlo Path Tracing
-basename:
 ---
 
 {% for image in site.static_files -%}
