@@ -1,5 +1,5 @@
 ---
 name: Woojong Koh
-url: http://wjkoh.com
+website: http://wjkoh.com
 ---
 **{{ page.name }}**
