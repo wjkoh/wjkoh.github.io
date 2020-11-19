@@ -17,18 +17,7 @@ journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
   {% capture author %}{{ author_profile.output | remove: "<p>" | remove: "</p>" | strip_newlines }}{% endcapture %}
   {% assign author_array = author_array | push: author %}
 {% endfor %}
-
 {{ author_array | array_to_sentence_string }}. {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
-
-{% assign author_array = "" | split: "/" %}
-{% for author_name in page.authors %}
-  {% assign author_profile = site.authors | where: "name", author_name | first %}
-  {% capture author %}{{ author_profile.output | remove: "<p>" | remove: "</p>" }}{% endcapture %}
-  {% assign author_array = author_array | push: author %}
-{% endfor %}
-
-{{ author_array | array_to_sentence_string }}. {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
-
 
 * [Project website](http://graphics.berkeley.edu/papers/Koh-VDA-2015-10/)
 * Paper: [Preprint](Koh-VDA-2015-11.pdf), [IEEE DL](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7127098)
