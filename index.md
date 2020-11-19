@@ -14,7 +14,7 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 {% assign image_files = site.static_files | where: "showcase", true %}
 {% for myimage in image_files %}
   <div class="column">
-    <img src="{{ myimage.path }}" height=300>
+    <img src="{{ myimage.path }}" style="width:100%">
   </div>
 {% endfor %}
 </div>
