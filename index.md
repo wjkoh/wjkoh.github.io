@@ -10,6 +10,10 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 ## Work experience
 
 ## Course projects
+{% for category in site.categories %}
+{{ category }}
+{% endfor %}
+
 {% for page in site.categories[Course] %}
 "{{ page.title }}"
 {% endfor %}
