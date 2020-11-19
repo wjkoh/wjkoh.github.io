@@ -7,11 +7,11 @@ permalink: /:basename/
 ## Reimbursements
 구글은 mobile phone, home internet, education, wfh equipment, student loan reimbursements 등이 있다. wfh equipment가 구글은 $X. 세금 안 떼는 reimbursement가 꿀이지 ㅋㅋ 연봉은 조금 올라도 많이 떼간다. 모니터, 스탠딩 데스크, 헤드셋은 살 수 있을거야
 
-## 추천 앱: Personal Capital
-https://www.personalcapital.com/
+## 추천 앱
+* [Personal Capital](https://www.personalcapital.com/),
 
-## 추천 책: The Simple Path to Wealth
-https://www.amazon.com/Simple-Path-Wealth-financial-independence-ebook/dp/B01H97OQY2
+## 추천 책
+* [The Simple Path to Wealth](https://www.amazon.com/Simple-Path-Wealth-financial-independence-ebook/dp/B01H97OQY2) by JL Collins,
 
 ## Frequently asked questions
 ### S&P 500도 여러개던데?
