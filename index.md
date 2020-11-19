@@ -10,7 +10,11 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 ## Work experience
 
 ## Course projects
-test2
+
+{% assign pages = site.pages | where: "course_project", true %}
+{% for page in pages %}
+  {{ page.title }}
+{% endfor %}
 
 {% for category in site.categories %}
 {{ category }}
