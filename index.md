@@ -10,11 +10,6 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 ## Showcase
 {% assign image_files = site.static_files | where: "showcase", true %}
 {% for myimage in image_files -%}
-|<img src="{{ myimage.path }}" width="150" style="vertical-align:middle">
-{%- endfor %}|
-
-{% assign image_files = site.static_files | where: "showcase", true %}
-{% for myimage in image_files -%}
 <img src="{{ myimage.path }}" height="150" style="vertical-align:middle">
 {%- endfor %}
 
