@@ -4,6 +4,8 @@ permalink: /:basename/
 ---
 
 # Personal Finance (Korean)
+Last updated: 2020-11-18
+
 ## Reimbursements
 구글은 mobile phone, home internet, education, wfh equipment, student loan reimbursements 등이 있다. wfh equipment가 구글은 $X. 세금 안 떼는 reimbursement가 꿀이지 ㅋㅋ 연봉은 조금 올라도 많이 떼간다. 모니터, 스탠딩 데스크, 헤드셋은 살 수 있을거야
 
