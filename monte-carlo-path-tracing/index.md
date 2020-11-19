@@ -8,4 +8,4 @@ title: Monte Carlo Path Tracing
 * Direct lighting: Enabled
 * Russian Roulette: Enabled
 * Minimum length of path: 2
-* # of samples: 6,400 per pixel
+* Number of samples: 6,400 per pixel
