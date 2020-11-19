@@ -7,9 +7,9 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 ## Publications
 {% include_relative publications.md %}
 
-## [Work experience](./work-experience)
+## Work experience
 
-## [Course projects](./course-projects)
+## Course projects
 {% for page in site.categories[Course] %}
 "{{ page.title }}"
 {% endfor %}
