@@ -11,6 +11,10 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 
 ## [Course projects](./course-projects)
  * [Monete Carlo Path Tracing](./monte-carlo-path-tracing)
+ 
+{% for page in site.categories["CourseProject"] %}
+* [{{ page.title }}]({{ page.url }})
+{% endfor %}
 
 ## Showcase
 {% assign image_files = site.static_files | where: "showcase", true %}
