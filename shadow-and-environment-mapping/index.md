@@ -1,9 +1,10 @@
 ---
 title: Shadow and Environment Mapping
+date: 2013-04-01 00:00:00
 course_project: true
 ---
 ## Shadow and Environment Mapping
-April 2013
+{{ page.date | date_to_string }}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qcnALFe154o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
