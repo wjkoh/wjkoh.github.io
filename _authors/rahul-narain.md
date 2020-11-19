@@ -1,5 +1,5 @@
 ---
 name: Rahul Narain
-url: http://rahul.narain.name
+website: http://rahul.narain.name
 ---
 {{ page.name }}
