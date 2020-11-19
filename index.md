@@ -10,8 +10,6 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 ## [Work experience](./work-experience)
 
 ## [Course projects](./course-projects)
- * [Monete Carlo Path Tracing](./monte-carlo-path-tracing)
- 
 {% for page in site.categories["CourseProject"] %}
 * [{{ page.title }}]({{ page.url }})
 {% endfor %}
