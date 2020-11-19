@@ -11,7 +11,7 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 
 ## [Course projects](./course-projects)
 {% for page in site.categories[CourseProject] %}
-* [{{ page.title }}]({{ page.url }})
+"{{ page.title }}"
 {% endfor %}
 
 ## Showcase
