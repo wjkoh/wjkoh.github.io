@@ -1,5 +1,5 @@
 ---
 name: James F. O'Brien
-url: http://www.cs.berkeley.edu/~job/
+url: http://obrien.berkeley.edu
 ---
 {{ page.name }}
