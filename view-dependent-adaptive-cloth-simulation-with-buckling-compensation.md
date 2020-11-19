@@ -1,6 +1,7 @@
 ---
 title: View-Dependent Adaptive Cloth Simulation with Buckling Compensation
 permalink: /:basename/
+publication: true
 ---
 
 ## View-Dependent Adaptive Cloth Simulation with Buckling Compensation
