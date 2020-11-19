@@ -15,9 +15,9 @@ Prior to joining Waymo, I was a fourth-year Ph.D. student in Computer Science at
 {% endfor %}
 
 ## Course projects
-{% assign pages = site.pages | where: "course_project", true -%}
+{% assign pages = site.pages | where: "course_project", true | sort: "date" -%}
 {%- for page in pages -%}
- * [{{ page.title }}]({{ page.url }})
+ * [{{ page.title }}, {{ page.date | date: "%B %Y" }}]({{ page.url }})
 {% endfor %}
 
 ## Showcase
