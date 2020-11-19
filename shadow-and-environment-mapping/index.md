@@ -1,6 +1,5 @@
 ---
 title: Shadow and Environment Mapping
-categories: Course
 course_project: true
 ---
 ## Shadow and Environment Mapping
