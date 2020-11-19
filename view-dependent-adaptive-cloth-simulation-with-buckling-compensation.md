@@ -4,14 +4,14 @@ permalink: /:basename/
 publication: true
 date: 2015-10-01 00:00:00
 author:
-- **Woojong Koh**
-- Rahul Narain
-- James F. O'Brien
+  - **Woojong Koh**
+  - Rahul Narain
+  - James F. O'Brien
 journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
 ---
 
 ## View-Dependent Adaptive Cloth Simulation with Buckling Compensation
-{{ page.author }}.
+{{ page.author | array_to_sentence_string }}.
 {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
 
 **Woojong Koh**, [Rahul Narain](http://www.eecs.berkeley.edu/~narain/), and [James F. O'Brien](http://www.cs.berkeley.edu/~job/).
