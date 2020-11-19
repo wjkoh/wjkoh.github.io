@@ -10,6 +10,8 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 ## Work experience
 
 ## Course projects
+test
+
 {% for category in site.categories %}
 {{ category }}
 {% endfor %}
