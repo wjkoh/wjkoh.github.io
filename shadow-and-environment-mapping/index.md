@@ -1,7 +1,6 @@
 ---
 title: Shadow and Environment Mapping
-categories:
-- Course
+categories: Course
 ---
 ## Shadow and Environment Mapping
 April 2013
