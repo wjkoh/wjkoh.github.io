@@ -2,6 +2,7 @@
 title: Monte Carlo Path Tracing
 course_project: true
 ---
+## Monte Carlo Path Tracing
 March 2013
 
 {% for image in site.static_files -%}
