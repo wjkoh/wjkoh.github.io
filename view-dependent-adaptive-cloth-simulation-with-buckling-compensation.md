@@ -12,6 +12,7 @@ journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
 ## View-Dependent Adaptive Cloth Simulation with Buckling Compensation
 {{ for author_name in page.authors }}
+author_name
 {{ assign author_profile = site.authors | where: "name", author_name | first }}
 [{{ author_profile.content | markdownify }}]({{ author_profile.url }})
 {{ endfor }}
