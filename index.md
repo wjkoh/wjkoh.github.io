@@ -11,11 +11,11 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 {% assign pages = site.pages | where: "work_experience", true -%}
 {%- for page in pages -%}
  * [{{ page.title }}]({{ page.url }})
-{%- endfor %}
+{% endfor %}
 
 ## Course projects
 {% assign pages = site.pages | where: "course_project", true -%}
-{% for page in pages -%}
+{%- for page in pages -%}
  * [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
