@@ -2,6 +2,12 @@
 title: Monte Carlo Path Tracing
 ---
 
+{% for image in site.static_files -%}
+{%- if image.path contains '/monte-carlo-path-tracing/' -%}
+<img src="{{ image.path }}" height="300"> 
+{%- endif -%}
+{%- endfor %}
+
 * Resolution: 1,024 by 768
 * Material: Lambertian and Phong BRDFs
 * Sampling: Cosine weighted importance sampling
