@@ -1,9 +1,10 @@
 ---
 title: Monte Carlo Path Tracing
+date: 2013-03-01 00:00:00
 course_project: true
 ---
 ## Monte Carlo Path Tracing
-March 2013
+{{ page.date | date: "%B %Y" }}
 
 {% for image in site.static_files -%}
 {%- if image.path contains page.dir -%}
