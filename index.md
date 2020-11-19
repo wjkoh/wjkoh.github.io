@@ -10,6 +10,6 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 
 ## Showcase
 
-<a name="waymo">1</a>: Waymo, formerly known as the Google self-driving car project, is a standalone company that was spun off from Google Inc. on January 1st, 2017 and has been a subsidiary of Alphabet Inc. like Google and DeepMind since then.
+<a name="waymo">1</a>: Waymo, formerly known as the Google self-driving car project, is a standalone company that was spun off from Google Inc. on January 1, 2017 and has been a subsidiary of Alphabet Inc. like Google and DeepMind since then.
 
 Last updated: 2020-11-18
