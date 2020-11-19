@@ -23,7 +23,7 @@ journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
 {% assign author_array = "" | split: "/" %}
 {% for author_name in page.authors %}
   {% assign author_profile = site.authors | where: "name", author_name | first %}
-  {% capture author %}{{ author_profile.output | strip_newlines }}{% endcapture %}
+  {% capture author %}{{ author_profile.output | remove: "<p>" | remove: "</p>" }}{% endcapture %}
   {% assign author_array = author_array | push: author %}
 {% endfor %}
 
