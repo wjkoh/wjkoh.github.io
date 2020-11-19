@@ -10,7 +10,7 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 ## Showcase
 {% assign image_files = site.static_files | where: "showcase", true %}
 {% for myimage in image_files -%}
-<img src="{{ myimage.path }}" height="150" style="vertical-align:middle">
+<img src="{{ myimage.path }}" height="150" style="vertical-align:middle"> 
 {%- endfor %}
 
 <a name="waymo">1</a>: Waymo, formerly known as the Google self-driving car project, is a standalone company that was spun off from Google Inc. on January 1, 2017 and has been a subsidiary of Alphabet Inc. like Google and DeepMind since then.
