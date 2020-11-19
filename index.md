@@ -8,8 +8,6 @@ Previously, I was a fourth-year Ph.D. student in Computer Science at [University
 {% include_relative publications.md %}
 
 ## Showcase
-<img src="./assets/IMG_0202.jpg" alt="Waymo" width=300>
-
 <div class="row">
 {% assign image_files = site.static_files | where: "showcase", true %}
 {% for myimage in image_files %}
