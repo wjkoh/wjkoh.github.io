@@ -1,9 +1,10 @@
 ---
 title: Monte Carlo Path Tracing
+basename:
 ---
 
 {% for image in site.static_files -%}
-{%- if image.path contains '/:basename/' -%}
+{%- if image.path contains '/{{:basename}}/' -%}
 <img src="{{ image.path }}" width="300"> 
 {%- endif -%}
 {%- endfor %}
