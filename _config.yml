@@ -3,3 +3,5 @@ author: Woojong Koh
 description: Software Engineer at Waymo
 github_username: wjkoh
 theme: jekyll-theme-slate
+collections:
+  - authors
