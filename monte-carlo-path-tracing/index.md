@@ -10,7 +10,7 @@ March 2013
 {%- endif -%}
 {%- endfor %}
 
-* Resolution: 1,024 by 768
+* Resolution: 1,024 by 768 pixels
 * Material: Lambertian and Phong BRDFs
 * Sampling: Cosine weighted importance sampling
 * Direct lighting: Enabled
