@@ -19,11 +19,7 @@ journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
   {% assign author_array = author_array | push: author_link %}
 {% endfor %}
 
-{{ author_array | array_to_sentence_string }}.
-{{ page.journal }}, {{ page.date | date: "%B %Y" }}.
-
-**Woojong Koh**, [Rahul Narain](http://www.eecs.berkeley.edu/~narain/), and [James F. O'Brien](http://www.cs.berkeley.edu/~job/).
-IEEE Transactions on Visualization and Computer Graphics (TVCG), October 2015.
+{{ author_array | array_to_sentence_string }}. {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
 
 * [Project website](http://graphics.berkeley.edu/papers/Koh-VDA-2015-10/)
 * Paper: [Preprint](Koh-VDA-2015-11.pdf), [IEEE DL](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7127098)
