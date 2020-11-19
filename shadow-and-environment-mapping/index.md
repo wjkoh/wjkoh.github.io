@@ -8,6 +8,6 @@ April 2013
 
 {%- for image in site.static_files -%}
 {%- if image.path contains page.dir -%}
-<img src="{{ image.path }}" width="300"> 
+<a href="{{ image.path }}"><img src="{{ image.path }}" width="300"></a>
 {%- endif -%}
 {%- endfor %}
