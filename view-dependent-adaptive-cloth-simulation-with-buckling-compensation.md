@@ -18,8 +18,8 @@ journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
 {{ for author_name in page.authors }}
 {{ assign author_profile = site.authors | where: "name", author_name | first }}
-[{{ author_profile.content | markdownify }}]({{ author_profile.url }}){% if forloop.last %}{% else %},{% endif %}
-{{ endfor }}.
+[{{ author_profile.content | markdownify }}]({{ author_profile.url }}){% if forloop.last %}.{% else %},{% endif %}
+{{ endfor }}
 
 {{ page.authors | array_to_sentence_string }}.
 {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
