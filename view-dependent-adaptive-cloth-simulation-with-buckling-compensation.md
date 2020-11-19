@@ -12,4 +12,4 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), October 2015.
 * Paper: [Preprint](Koh-VDA-2015-11.pdf), [IEEE DL](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7127098)
 * Video: [YouTube](http://youtu.be/71TOPXD9j4E), [Vimeo](https://vimeo.com/142075649)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/71TOPXD9j4E?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71TOPXD9j4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
