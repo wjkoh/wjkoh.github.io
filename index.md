@@ -23,7 +23,7 @@ Prior to joining Waymo, I was a fourth-year Ph.D. student in Computer Science at
 ## Showcase
 {% for image in site.static_files -%}
 {%- if image.path contains "/showcase/" -%}
-<img src="{{ image.path }}" style="width:33vw"> 
+<img src="{{ image.path }}" style="width:33%"> 
 {%- endif -%}
 {%- endfor %}
 
