@@ -10,6 +10,6 @@ course_project: true
 
 {% for image in site.static_files -%}
 {%- if image.path contains page.dir -%}
-<a href="{{ image.path }}"><img src="{{ image.path }}" width="300"></a>
+<a href="{{ image.path }}"><img src="{{ image.path }}" style="width:50%"></a>
 {%- endif -%}
 {%- endfor %}
