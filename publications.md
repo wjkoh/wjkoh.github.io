@@ -4,5 +4,5 @@
 
 {% assign pages = site.pages | where: "publication", true -%}
 {%- for page in pages -%}
- * [{{ page.title }}]({{ page.url }}), {{ page.authors | array_to_sequence_string }}. {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
+ * [{{ page.title }}]({{ page.url }}), {{ page.authors | array_to_sentence_string }}. {{ page.journal }}, {{ page.date | date: "%B %Y" }}.
 {% endfor %}
