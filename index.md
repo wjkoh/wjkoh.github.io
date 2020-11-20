@@ -23,9 +23,9 @@ Prior to joining Waymo, I was a fourth-year Ph.D. student in Computer Science at
 ## Showcase
 {% for image in site.static_files -%}
 {%- if image.path contains "/showcase/" -%}
-<img src="{{ image.path }}" height="150"> 
+<img src="{{ image.path }}" style="width:100%"> 
 {%- endif -%}
-{%- endfor %}
+{% endfor %}
 
 ## Links
  * [My LinkedIn profile](https://www.linkedin.com/in/wjkoh)
