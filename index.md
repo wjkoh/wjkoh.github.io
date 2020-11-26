@@ -5,7 +5,7 @@ wjkoh (at) waymo.com
 [[CV]](./assets/wjkoh-cv-public.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/wjkoh)
 
 ## Education
-* [Ph.D. student](http://graphics.berkeley.edu/people/index.html), Computer Science,  Aug. 2012 – May 2016 (on leave)  
+* [Ph.D. student](http://graphics.berkeley.edu/people/index.html), Computer Science,  Aug. 2012 - May 2016 (on leave)  
 [University of California, Berkeley](http://www.berkeley.edu)  
 * [M.S.](https://cal.berkeley.edu/wjkoh), Computer Science, May 2016  
 [University of California, Berkeley](http://www.berkeley.edu)
@@ -21,8 +21,7 @@ wjkoh (at) waymo.com
  * [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
-* Software Engineer, May 2016 - present  
-[Waymo LLC](http://waymo.com)
+* Software Engineer, [Waymo LLC](http://waymo.com), May 2016 - present  
 
 ## Course projects
 {% assign pages = site.pages | where: "course_project", true | sort: "date" | reverse -%}
