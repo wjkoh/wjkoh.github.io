@@ -3,7 +3,7 @@ Hi, my name is **Woojong Koh** and I'm a software engineer at [Waymo](https://wa
 
 Prior to joining Waymo, I was a fourth-year Ph.D. student in Computer Science at [University of California, Berkeley](http://www.berkeley.edu) under the supervision of Prof. [James F. O'Brien](http://www.cs.berkeley.edu/~job). I received my [M.S.](https://cal.berkeley.edu/wjkoh) in Computer Science from UC Berkeley and B.S. in Computer Science and Engineering from [Seoul National University](http://en.snu.ac.kr), Seoul, South Korea. I had worked as a full-time research intern in Prof. [Jehee Lee](http://mrl.snu.ac.kr/~jehee)'s [Movement Research Lab](http://mrl.snu.ac.kr).
 
-## [Curriculum vitae](./assets/wjkoh-cv-public.pdf)
+[CV](./assets/wjkoh-cv-public.pdf) | [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Publications
 {% include_relative publications.md %}
@@ -26,8 +26,5 @@ Prior to joining Waymo, I was a fourth-year Ph.D. student in Computer Science at
 <a href="{{ image.path }}"><img src="{{ image.path }}" style="width:33%"></a>
 {%- endif -%}
 {%- endfor %}
-
-## Links
- * [My LinkedIn profile](https://www.linkedin.com/in/wjkoh)
 
 Last updated: 2020-11-18
