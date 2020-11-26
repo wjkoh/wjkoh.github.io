@@ -5,11 +5,13 @@ wjkoh (at) waymo.com
 [[CV]](./assets/wjkoh-cv-public.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/wjkoh)
 
 ## Education
-* Ph.D. student on leave, University of California, Berkeley.
-* Master of Science, University of California, Berkeley.
-* Bachelor of Science, Seoul National University.
-
-Prior to joining Waymo, I was a fourth-year Ph.D. student in Computer Science at [University of California, Berkeley](http://www.berkeley.edu) under the supervision of Prof. [James F. O'Brien](http://www.cs.berkeley.edu/~job). I received my [M.S.](https://cal.berkeley.edu/wjkoh) in Computer Science from UC Berkeley and B.S. in Computer Science and Engineering from [Seoul National University](http://en.snu.ac.kr), Seoul, South Korea. I had worked as a full-time research intern in Prof. [Jehee Lee](http://mrl.snu.ac.kr/~jehee)'s [Movement Research Lab](http://mrl.snu.ac.kr).
+* Ph.D. student, Computer Science,  Aug. 2012 – May 2016 (on leave)  
+[University of California, Berkeley](http://www.berkeley.edu)  
+Advisor: Prof. [James F. O'Brien](http://www.cs.berkeley.edu/~job)
+* [Master of Science](https://cal.berkeley.edu/wjkoh), Computer Science, May 2016  
+[University of California, Berkeley](http://www.berkeley.edu)
+* Bachelor of Science, summa cum laude, Computer Science and Engineering, Feb. 2012  
+[Seoul National University](http://en.snu.ac.kr), Seoul, South Korea
 
 ## Publications
 {% include_relative publications.md %}
