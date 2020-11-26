@@ -21,6 +21,9 @@ wjkoh (at) waymo.com
  * [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
+* Software Engineer, May 2016 - present  
+[Waymo LLC](http://waymo.com)
+
 ## Course projects
 {% assign pages = site.pages | where: "course_project", true | sort: "date" | reverse -%}
 {%- for page in pages -%}
