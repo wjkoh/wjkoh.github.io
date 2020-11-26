@@ -7,9 +7,9 @@ wjkoh (at) waymo.com
 ## Education
 * [Ph.D. student](http://graphics.berkeley.edu/people/index.html), Computer Science,  Aug. 2012 – May 2016 (on leave)  
 [University of California, Berkeley](http://www.berkeley.edu)  
-* [Master of Science](https://cal.berkeley.edu/wjkoh), Computer Science, May 2016  
+* [M.S.](https://cal.berkeley.edu/wjkoh), Computer Science, May 2016  
 [University of California, Berkeley](http://www.berkeley.edu)
-* Bachelor of Science, summa cum laude, Computer Science and Engineering, Feb. 2012  
+* B.S., Computer Science and Engineering, Feb. 2012  
 [Seoul National University](http://en.snu.ac.kr), Seoul, South Korea
 
 ## Publications
