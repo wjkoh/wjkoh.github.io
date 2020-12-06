@@ -5,10 +5,10 @@ wjkoh (at) waymo.com
 [[CV]](./assets/wjkoh-cv-public.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/wjkoh)
 
 ## Education
-* [Ph.D. student](http://graphics.berkeley.edu/people/index.html), Computer Science,  Aug. 2012 - May 2016 (on leave)  
-[University of California, Berkeley](http://www.berkeley.edu)  
-* [M.S.](https://cal.berkeley.edu/wjkoh), Computer Science, May 2016  
-[University of California, Berkeley](http://www.berkeley.edu)
+* Ph.D. student, Computer Science,  Aug. 2012 - May 2016 (on leave)  
+University of California, Berkeley
+* M.S., Computer Science, May 2016  
+University of California, Berkeley
 * B.S., Computer Science and Engineering, Feb. 2012  
 [Seoul National University](http://en.snu.ac.kr), Seoul, South Korea
 
