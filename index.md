@@ -2,7 +2,9 @@
 
 <img src="assets/woojong_koh_profile.jpeg" align="right" style="width:20%">
 
-Hi, I'm Woojong. I was a software engineer at [Waymo](https://waymo.com), formerly known as the [Google self-driving car project](https://www.google.com/selfdrivingcar), working on vision-based detection and classification for self-driving cars using various machine learning techniques. 
+Hi, I'm Woojong.
+
+I was a software engineer at [Waymo](https://waymo.com), formerly known as the [Google self-driving car project](https://www.google.com/selfdrivingcar), working on vision-based detection and classification for self-driving cars using various machine learning techniques. 
 
 [CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
@@ -27,7 +29,7 @@ Hi, I'm Woojong. I was a software engineer at [Waymo](https://waymo.com), former
  * [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
-* Software Engineer, [Waymo LLC](http://waymo.com), May 2016 - Jun 2021  
+* Software Engineer, [**Waymo LLC**](http://waymo.com), May 2016 - Jun 2021  
 
 ## Course projects
 {% assign pages = site.pages | where: "course_project", true | sort: "date" | reverse -%}
