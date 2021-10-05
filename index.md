@@ -18,15 +18,15 @@ I was a software engineer at [Waymo](https://waymo.com), formerly known as the [
  * [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
-* Software Engineer, [**Waymo LLC**](http://waymo.com), May 2016 - Jun 2021  
+* Software Engineer, [Waymo LLC](http://waymo.com), May 2016 - Jun 2021  
 
 ## Education
 * Ph.D. student, Computer Science,  Aug. 2012 - May 2016 (on leave)  
-**University of California, Berkeley**
+University of California, Berkeley
 * M.S., Computer Science, May 2016  
-**University of California, Berkeley**
+University of California, Berkeley
 * B.S., Computer Science and Engineering, Feb. 2012  
-[**Seoul National University**](http://en.snu.ac.kr), Seoul, South Korea
+[Seoul National University](http://en.snu.ac.kr), Seoul, South Korea
 
 ## Publications
 {% include_relative publications.md %}
