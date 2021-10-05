@@ -1,6 +1,6 @@
 ## About me
 
-<img src="assets/woojong_koh_profile.jpeg" align="right" style="width:20%">
+<img src="assets/woojong_koh_profile.jpeg" align="right" style="width:30%">
 
 Hi, I'm Woojong.
 
