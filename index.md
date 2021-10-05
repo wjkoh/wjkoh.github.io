@@ -1,7 +1,6 @@
 ## About me
 Hi, my name is **Woojong Koh** (고우종). I was a software engineer at [Waymo](https://waymo.com), formerly known as the [Google self-driving car project](https://www.google.com/selfdrivingcar), working on vision-based detection and classification for self-driving cars using various machine learning techniques. 
 
-wjkoh (at) waymo.com  
 [[CV]](./assets/wjkoh-cv-public.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/wjkoh)
 
 ## Press
