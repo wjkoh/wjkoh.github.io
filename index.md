@@ -12,6 +12,10 @@ University of California, Berkeley
 * B.S., Computer Science and Engineering, Feb. 2012  
 [Seoul National University](http://en.snu.ac.kr), Seoul, South Korea
 
+## Press
+* 한국경제 - [박사 학위·구글 모두 버리고…30대 청년의 '과감한 선택' [황정수의 인(人) 실리콘밸리]](https://www.hankyung.com/it/article/202110021249i)
+* 한국경제 - [고우종 前 엔지니어 "세상 바꿀 아이템 찾으러 구글 박차고 나왔죠"](https://www.hankyung.com/economy/article/2021100568691)
+
 ## Publications
 {% include_relative publications.md %}
 
