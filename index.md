@@ -1,7 +1,7 @@
 ## About me
 Hi, my name is **Woojong Koh** (고우종). I was a software engineer at [Waymo](https://waymo.com), formerly known as the [Google self-driving car project](https://www.google.com/selfdrivingcar), working on vision-based detection and classification for self-driving cars using various machine learning techniques. 
 
-[[CV]](./assets/wjkoh-cv-public.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/wjkoh)
+[CV](./assets/wjkoh-cv-public.pdf) [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Press
 * 한국경제 - [박사 학위·구글 모두 버리고…30대 청년의 '과감한 선택' [황정수의 인(人) 실리콘밸리]](https://www.hankyung.com/it/article/202110021249i)
@@ -9,11 +9,11 @@ Hi, my name is **Woojong Koh** (고우종). I was a software engineer at [Waymo]
 
 ## Education
 * Ph.D. student, Computer Science,  Aug. 2012 - May 2016 (on leave)  
-University of California, Berkeley
+**University of California, Berkeley**
 * M.S., Computer Science, May 2016  
-University of California, Berkeley
+**University of California, Berkeley**
 * B.S., Computer Science and Engineering, Feb. 2012  
-[Seoul National University](http://en.snu.ac.kr), Seoul, South Korea
+[**Seoul National University**](http://en.snu.ac.kr), Seoul, South Korea
 
 ## Publications
 {% include_relative publications.md %}
