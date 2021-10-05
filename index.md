@@ -44,6 +44,6 @@ University of California, Berkeley
 {%- endif -%}
 {%- endfor %}
 
-Some information is only available in [my previous profile page](http://wjkoh.wikidot.com).
+See [my old profile](http://wjkoh.wikidot.com) for more info.
 
 Last updated: 2021-10-05
