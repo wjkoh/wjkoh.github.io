@@ -19,6 +19,7 @@ Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com)
  * [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
+* Entrepreneur in Residence, [Hashed](https://www.hashed.com), Oct 2021 - present
 * Software Engineer, [Waymo LLC](http://waymo.com), May 2016 - Jun 2021  
 
 ## Education
