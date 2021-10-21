@@ -4,7 +4,7 @@ Hi, I'm Woojong.
 
 I joined [Hashed](https://www.hashed.com) as an Entrepreneur in Residence in October 2021. I'm working on web3 and crypto projects.
 
-Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the [Google self-driving car project](https://www.google.com/selfdrivingcar), working on vision-based detection and classification for self-driving cars using various machine learning techniques. 
+Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques. 
 
 [CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
