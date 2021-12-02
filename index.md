@@ -4,12 +4,12 @@ Hi, I'm Woojong.
 
 I joined [Hashed](https://www.hashed.com) as an Entrepreneur in Residence in October 2021. I'm working on web3 and crypto projects.
 
-Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques. 
+Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
 [CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Recent news
-- Launched [Pass the Baton](https://baton.art/), an NFT[^1] art project with purpose, on November 18th, 2021. The project creates a sustainable platform for giving on the blockchain, specifically on [Ethereum](https://ethereum.org/en/). See more at https://baton.art.
+- Launched [Pass the Baton](https://baton.art/), an NFT[^2] art project with purpose, on November 18th, 2021. The project creates a sustainable platform for giving on the blockchain, specifically on [Ethereum](https://ethereum.org/en/). See more at https://baton.art.
 
 ## Press
 * 한국경제 - [박사 학위·구글 모두 버리고…30대 청년의 '과감한 선택' [황정수의 인(人) 실리콘밸리]](https://www.hankyung.com/it/article/202110021249i)
@@ -49,8 +49,5 @@ University of California, Berkeley
 {%- endif -%}
 {%- endfor %}
 
-See [my old profile](http://wjkoh.wikidot.com) for more info.
-
-Last updated: 2021-10-05
-
-[^1]: Non-fungible token.
+[^1]: See [my old profile](http://wjkoh.wikidot.com) for more info.
+[^2]: Non-fungible token.
