@@ -29,7 +29,7 @@ Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com)
 ## Education
 * Ph.D. student, Computer Science,  Aug. 2012 - May 2016 (on leave)  
 University of California, Berkeley
-* M.S., Computer Science, May 2016  
+* M.S., Computer Science, May 2016. [Master's Thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html).
 University of California, Berkeley
 * B.S., Computer Science and Engineering, Feb. 2012  
 [Seoul National University](http://en.snu.ac.kr), Seoul, South Korea
