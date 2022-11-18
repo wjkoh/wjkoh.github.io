@@ -2,13 +2,14 @@
 
 Hi, I'm Woojong.
 
-I joined [Hashed](https://www.hashed.com) as an Entrepreneur in Residence in October 2021. I'm working on web3 and crypto projects.
+I'm interested in Large Language Models and other NLP models. I built a webapp called SumUp (https://sumup.page/) that summarizes a web article with AI-generated Q&As and discussion using GPT-3. Please take a look!
 
-Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
+I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to Apirl 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
 [CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Recent news
+- Launched [SumUp](https://sumup.page/), a web app that makes articles easier to understand using AI. Based on GPT-3, the app provides short summary, AI-generated Q&As, discussion between AIs, comments, and so on. The V2 is on the way.
 - Launched [Pass the Baton](https://baton.art/), an NFT[^2] art project with purpose, on November 18th, 2021. The project creates a sustainable platform for giving on the blockchain. The NFTs are [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) tokens on [Ethereum](https://ethereum.org/en/). See more at https://baton.art.
 
 ## Press
