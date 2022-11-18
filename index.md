@@ -2,7 +2,7 @@
 
 Hi, I'm Woojong.
 
-I'm interested in Large Language Models and other NLP models. I built a webapp called SumUp (https://sumup.page/) that summarizes a web article with AI-generated Q&As and discussion using GPT-3. Please take a look!
+I'm interested in Large Language Models and other NLP models. I built a webapp called [SumUp](https://sumup.page/) that summarizes a web article with AI-generated Q&As and discussion using GPT-3. Please take a look!
 
 I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to Apirl 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
