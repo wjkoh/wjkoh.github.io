@@ -9,8 +9,8 @@ I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from Octo
 [CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Recent news
-- Launched [SumUp](https://sumup.page/), a web app that makes articles easier to understand using AI. Based on GPT-3, the app provides short summary, AI-generated Q&As, discussion between AIs, AI-generated user comments, and so on. [Version 2](https://v2-2lo72j2xaq-uc.a.run.app/) is on the way.
-- Launched [Pass the Baton](https://baton.art/), an NFT[^2] art project with purpose, on November 18th, 2021. The project creates a sustainable platform for giving on the blockchain. The NFTs are [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) tokens on [Ethereum](https://ethereum.org/en/). See more at https://baton.art.
+- Nov 2022. Launched [SumUp](https://sumup.page/), a web app that makes articles easier to understand using AI. Based on GPT-3, the app provides short summary, AI-generated Q&As, discussion between AIs, AI-generated user comments, and so on. [Version 2](https://v2-2lo72j2xaq-uc.a.run.app/) is on the way.
+- Nov 2021. Launched [Pass the Baton](https://baton.art/), an NFT[^2] art project with purpose, on November 18th, 2021. The project creates a sustainable platform for giving on the blockchain. The NFTs are [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) tokens on [Ethereum](https://ethereum.org/en/). See more at https://baton.art.
 
 ## Press
 * XREAL - [구글 웨이모 엔지니어가 #Hashed에 간 이유 - Hashed EIR 고우종을 만나다.](https://www.xreal.info/24642ad7-40b3-41a8-8aff-b8f639568d20)
