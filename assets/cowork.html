@@ -1,28 +1,38 @@
 <html>
-  <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.4.0/reveal.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.4.0/theme/white.min.csss">
-  </head>
-  <body>
-    <div class="reveal">
-      <div class="slides">
-        <section data-markdown>
-  <textarea data-template>
-    ## Cowork.AI
-    Increase Productivity and Reduce Overload
-    ---
-    ## Introduction
-    👋 Hi, I’m Woojong. I worked on self-driving cars as a machine learning engineer for five years, and also did some cool graphics stuff in grad school before that.
-    ---
-    ## Introduction
-    I recently got interested in natural language processing (NLP), especially large language models (LLMs), and created 🎯SumUp, a web app that makes articles easier to understand. It leverages GPT-3 to generate summaries, AI-generated questions and answers, discussions, and action items to explore the topic further. Please give it a try and let me know what you think!
-  </textarea>
-</section>
-      </div>
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.4.0/reveal.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.4.0/theme/white.min.css">
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section data-markdown>
+        <textarea data-template>
+          ## Cowork.AI
+          Increase Productivity and Reduce Overload
+          ---
+          ## Introduction
+          👋 Hi, I’m Woojong. I worked on self-driving cars as a machine learning engineer for five years, and also did
+          some cool graphics stuff in grad school before that.
+          ---
+          ## Introduction
+          I recently got interested in natural language processing (NLP), especially large language models (LLMs), and
+          created 🎯SumUp, a web app that makes articles easier to understand. It leverages GPT-3 to generate summaries,
+          AI-generated questions and answers, discussions, and action items to explore the topic further. Please give it
+          a try and let me know what you think!
+        </textarea>
+      </section>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.4.0/reveal.js"></script>
-    <script>
-      Reveal.initialize();
-    </script>
-  </body>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.4.0/reveal.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.4.0/plugin/markdown/markdown.min.js"></script>
+  <script>
+    Reveal.initialize({
+      plugins: [RevealMarkdown]
+    });
+  </script>
+</body>
+
 </html>
