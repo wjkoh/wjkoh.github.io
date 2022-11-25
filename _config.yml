@@ -5,3 +5,5 @@ github_username: wjkoh
 theme: jekyll-theme-slate
 collections:
   - authors
+plugins:
+  - jekyll-sitemap
