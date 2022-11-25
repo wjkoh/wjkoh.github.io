@@ -7,3 +7,4 @@ collections:
   - authors
 plugins:
   - jekyll-sitemap
+url: "https://wjkoh.com"
