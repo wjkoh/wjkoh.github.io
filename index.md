@@ -1,4 +1,4 @@
-<img src="assets/2022-11-woojong-koh-profile.jpg" align="right" style="width:30%">
+<img src="assets/2022-11-woojong-koh-profile.jpg" align="right" style="width:40%">
 
 Hi, I'm Woojong.
 
