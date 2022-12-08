@@ -6,7 +6,7 @@ Hi, I'm Woojong.
 
 I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to Apirl 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
-[CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
+[CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh) | [Phone & Email](./assets/Woojong Koh.vcf)
 
 ## Recent news
 - Nov 2022. Launched [SumUp](https://sumup.page/), a web app that makes articles easier to understand using AI. Based on GPT-3, the app provides short summary, AI-generated Q&As, discussion between AIs, AI-generated user comments, and so on. [Version 2](https://v2-2lo72j2xaq-uc.a.run.app/) is on the way.
