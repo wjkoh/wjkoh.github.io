@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /assets/Woojong-Koh.vcf
+Sitemap: {{ site.url }}/sitemap.xml
