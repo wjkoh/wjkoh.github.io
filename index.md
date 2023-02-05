@@ -2,6 +2,8 @@
 
 Hi, I'm Woojong.
 
+**Update**: I founded [Cowork AI](https://cwrk.ai/).
+
 **Update**: I'm interested in Large Language Models and other NLP models. I built and released a webapp called [SumUp](https://sumup.page/) that summarizes a web article with AI-generated Q&As and discussion using GPT-3 in November 2022. Please take a look and let me know what you think!
 
 I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to April 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
