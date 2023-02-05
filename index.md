@@ -1,8 +1,8 @@
 <img src="assets/2022-11-woojong-koh-profile.jpg" align="right" style="width:40%">
 
-Hi, I'm Woojong.
+Hi,
 
-**Update**: I founded [Cowork AI](https://cwrk.ai/).
+My name is Woojong and I am the founder and CEO of [Cowork AI](https://cwrk.ai/).
 
 **Update**: I'm interested in Large Language Models and other NLP models. I built and released a webapp called [SumUp](https://sumup.page/) that summarizes a web article with AI-generated Q&As and discussion using GPT-3 in November 2022. Please take a look and let me know what you think!
 
