@@ -2,7 +2,7 @@
 
 Hi,
 
-I'm the founder and CEO of [Cowork AI](https://cwrk.ai/). I'm passionate about creating a product based on Large Language Models and other ML models. I've constructed and made available several webapps utilizing GPT-3 and Whisper since November of 2022. For more information, please visit [https://cwrk.ai](https://cwrk.ai).
+I'm the co-founder and co-CEO of [Cowork AI](https://cwrk.ai/). For more information, please visit [https://cwrk.ai](https://cwrk.ai).
 
 I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to April 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
