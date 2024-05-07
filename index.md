@@ -1,8 +1,6 @@
 <img src="assets/2022-11-woojong-koh-profile.jpg" align="right" style="width:40%">
 
-Hi,
-
-I'm the CEO of [Cowork AI](https://cwrk.ai/). For more information, please visit [https://cwrk.ai](https://cwrk.ai).
+Hi, I'm the CEO of [Cowork AI](https://cwrk.ai/). For more information, please visit [https://cwrk.ai](https://cwrk.ai).
 
 I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to April 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
