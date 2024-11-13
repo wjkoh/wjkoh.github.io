@@ -12,6 +12,7 @@ I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from Octo
 - Nov 2021. Launched [Pass the Baton](https://baton.art/), an NFT art project with purpose, on November 18th, 2021. The project creates a sustainable platform for giving on the blockchain. The NFTs are [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) tokens on [Ethereum](https://ethereum.org/en/). See more at https://baton.art.
 
 ## Press
+* Bloter - [임신·육아 시장도 AI로...휴먼스케이프와 협업하는 구글 출신 고우종 대표](https://n.news.naver.com/mnews/article/293/0000060502?sid=105)
 * XREAL - [구글 웨이모 엔지니어가 #Hashed에 간 이유 - Hashed EIR 고우종을 만나다.](https://www.xreal.info/24642ad7-40b3-41a8-8aff-b8f639568d20)
 * 한국경제 - [박사 학위·구글 모두 버리고…30대 청년의 '과감한 선택' [황정수의 인(人) 실리콘밸리]](https://www.hankyung.com/it/article/202110021249i)
 * 한국경제 - [고우종 前 엔지니어 "세상 바꿀 아이템 찾으러 구글 박차고 나왔죠"](https://www.hankyung.com/economy/article/2021100568691) ([PDF](assets/the_korea_economic_daily_20211006_A032.pdf))
