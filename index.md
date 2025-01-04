@@ -4,7 +4,7 @@ Hi, I'm the CEO of [Cowork AI](https://cwrk.ai/). For more information, please v
 
 I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to April 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
-[CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh) \| [Phone & Email](./assets/Woojong-Koh.vcf)
+[CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Recent news
 - Apr 2024. Launched [Bake](https://api.getbake.ai/), cutting-edge AI APIs for generating stunning portraits using selfies or ultrasound images. Facemagic transforms selfies into high-quality character portraits or virtual model faces, while Babymagic creates realistic baby photos from 3D fetal ultrasounds.
