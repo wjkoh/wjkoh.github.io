@@ -7,6 +7,7 @@ I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from Octo
 [CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Recent news
+- Apr 2024. Launched [CareerFit](https://career.cwrk.ai), a Gen AI-based resume generator and job posting matching service.
 - Apr 2024. Launched [Bake](https://api.getbake.ai/), cutting-edge AI APIs for generating stunning portraits using selfies or ultrasound images. Facemagic transforms selfies into high-quality character portraits or virtual model faces, while Babymagic creates realistic baby photos from 3D fetal ultrasounds.
 - Nov 2022. Launched [SumUp](https://sumup.page/), a web app that makes articles easier to understand using AI. Based on GPT-3, the app provides short summary, AI-generated Q&As, discussion between AIs, AI-generated user comments, and so on. [Version 2](https://v2-2lo72j2xaq-uc.a.run.app/) is on the way.
 - Nov 2021. Launched [Pass the Baton](https://baton.art/), an NFT art project with purpose, on November 18th, 2021. The project creates a sustainable platform for giving on the blockchain. The NFTs are [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) tokens on [Ethereum](https://ethereum.org/en/). See more at https://baton.art.
