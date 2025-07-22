@@ -4,7 +4,7 @@ Hi, I'm the CEO of [Cowork AI](https://cwrk.ai/). For more information, please v
 
 I was an Entrepreneur in Residence at [Hashed](https://www.hashed.com) from October 2021 to April 2022. I worked on web3 and crypto projects. Prior to joining Hashed, I was a software engineer at [Waymo](https://waymo.com), formerly known as the Google self-driving car project, working on vision-based detection and classification for self-driving cars using various machine learning techniques.[^1] 
 
-[CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
+[GitHub](https://github.com/wjkoh/) \| [CV](./assets/wjkoh-cv-public.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=Mz6M9j0AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/wjkoh)
 
 ## Recent news
 - Apr 2025. Launched [CareerFit](https://career.cwrk.ai), a Gen AI-based resume generator and job posting matching service.
