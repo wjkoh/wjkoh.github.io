@@ -1,0 +1,16 @@
+version: '3'
+
+tasks:
+  build:
+    desc: Build the resume PDF using Typst
+    cmds:
+      - typst compile resume.typ woojong-koh-resume.pdf
+    sources:
+      - resume.typ
+    generates:
+      - woojong-koh-resume.pdf
+
+  clean:
+    desc: Remove generated files
+    cmds:
+      - rm -f woojong-koh-resume.pdf
