@@ -1,0 +1,546 @@
+'FinalBurn Neo - Arcade'
+games.txt
+'Lexaloffle - PICO-8'
+'NEC - PC Engine - TurboGrafx-16'
+'NEC - PC Engine CD & TurboGrafx CD'
+'Nintendo - Game Boy'
+'Nintendo - Game Boy Advance'
+'Nintendo - Game Boy Color'
+'Nintendo - Nintendo Entertainment System'
+'Nintendo - Super Nintendo Entertainment System'
+'Sega - 32X'
+'Sega - Mega Drive - Genesis'
+'Sony - PlayStation'
+
+'./FinalBurn Neo - Arcade':
+1944.zip
+bublbobl.zip
+bublboblr.zip
+ddsom.zip
+dkong.zip
+galaga.zip
+galaga88.zip
+garou.zip
+goldnaxe.zip
+kof98.zip
+kov.zip
+lastblad.zip
+magdrop3.zip
+mk2.zip
+mmatrix.zip
+mslug.zip
+mslug3.zip
+mvsc.zip
+neogeo.zip
+pang.zip
+pbobble.zip
+pgm.zip
+raiden.zip
+s1945ii.zip
+sf2.zip
+sfa3.zip
+sgemf.zip
+shocktro.zip
+simpsons.zip
+spf2t.zip
+ssf2t.zip
+ssf2tur1.zip
+turfmast.zip
+wboy.zip
+wjammers.zip
+
+'./Lexaloffle - PICO-8':
+15133.p8.png
+49232.p8.png
+56576.p8.png
+celeste_classic_2-5.p8.png
+downward-6.p8.png
+golfsunday-0.p8.png
+jijazenefe-2.p8.png
+kalikan_menu-6.p8.png
+marble_merger-5.p8.png
+picooffroad-5.p8.png
+praxis_fighter_x-2.p8.png
+puzzlesofthepaladin-3.p8.png
+Splore.p8
+subsurface-2.p8.png
+ufo-0.p8.png
+
+'./NEC - PC Engine - TurboGrafx-16':
+"Bomberman '93 (USA).zip"
+"Devil's Crush (USA).zip"
+"Dragon's Curse (USA).zip"
+'Neutopia (USA).zip'
+'New Adventure Island (USA).zip'
+'Soldier Blade (USA).zip'
+
+'./NEC - PC Engine CD & TurboGrafx CD':
+'Lords of Thunder (USA)'
+
+'./NEC - PC Engine CD & TurboGrafx CD/Lords of Thunder (USA)':
+'Lords of Thunder (USA) (Track 01).bin'
+'Lords of Thunder (USA) (Track 02).bin'
+'Lords of Thunder (USA) (Track 03).bin'
+'Lords of Thunder (USA) (Track 04).bin'
+'Lords of Thunder (USA) (Track 05).bin'
+'Lords of Thunder (USA) (Track 06).bin'
+'Lords of Thunder (USA) (Track 07).bin'
+'Lords of Thunder (USA) (Track 08).bin'
+'Lords of Thunder (USA) (Track 09).bin'
+'Lords of Thunder (USA) (Track 10).bin'
+'Lords of Thunder (USA) (Track 11).bin'
+'Lords of Thunder (USA) (Track 12).bin'
+'Lords of Thunder (USA) (Track 13).bin'
+'Lords of Thunder (USA) (Track 14).bin'
+'Lords of Thunder (USA) (Track 15).bin'
+'Lords of Thunder (USA) (Track 16).bin'
+'Lords of Thunder (USA) (Track 17).bin'
+'Lords of Thunder (USA) (Track 18).bin'
+'Lords of Thunder (USA) (Track 19).bin'
+'Lords of Thunder (USA) (Track 20).bin'
+'Lords of Thunder (USA) (Track 21).bin'
+'Lords of Thunder (USA) (Track 22).bin'
+'Lords of Thunder (USA) (Track 23).bin'
+'Lords of Thunder (USA).cue'
+
+'./Nintendo - Game Boy':
+'BurgerTime Deluxe (World).zip'
+'Catrap (USA).zip'
+'Donkey Kong (World) (Rev 1) (SGB Enhanced).zip'
+'Dr. Mario (World) (Rev 1).zip'
+"Kirby's Dream Land (USA, Europe).zip"
+"Kirby's Pinball Land (USA, Europe).zip"
+"Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).zip"
+"Mario's Picross (USA, Europe) (SGB Enhanced).zip"
+'Mole Mania (USA, Europe) (SGB Enhanced).zip'
+"Pinball - Revenge of the 'Gator (USA, Europe).zip"
+'Tetris (World) (Rev 1).zip'
+'TwinBee da!! (Japan).zip'
+
+'./Nintendo - Game Boy Advance':
+'Advance Wars (USA) (Rev 1).gba'
+'Advance Wars 2 - Black Hole Rising (USA).gba'
+'Aladdin (USA) (En,Fr,De,Es).zip'
+'Alien Hominid (Europe) (En,Fr,De,Es,It).gba'
+'Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).gba'
+'Boktai - The Sun Is in Your Hand (USA).gba'
+'Breath of Fire (USA).gba'
+'Castlevania - Aria of Sorrow (USA).gba'
+'Contra Advance - The Alien Wars EX (USA).gba'
+'Drill Dozer (USA).zip'
+'F-Zero - Climax (Japan).zip'
+'F-Zero - GP Legend (USA).zip'
+'F-Zero - Maximum Velocity (USA, Europe).zip'
+'FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es).gba'
+'Final Fantasy Tactics Advance (USA).gba'
+'Final Fantasy VI Advance (USA).gba'
+'Fire Emblem (USA, Australia).gba'
+'Golden Sun (USA, Europe).gba'
+'Gradius Galaxies (USA).zip'
+'Guilty Gear X - Advance Edition (USA).gba'
+'Harvest Moon - Friends of Mineral Town (USA).gba'
+'Kirby & The Amazing Mirror (USA).gba'
+'Kirby - Nightmare in Dream Land (USA).gba'
+'Kurukuru Kururin (Europe).zip'
+'Lady Sia (USA) (En,Fr,De,Es,It,Nl).gba'
+'Legend of Zelda, The - A Link to the Past & Four Swords (USA).gba'
+'Legend of Zelda, The - The Minish Cap (USA).gba'
+'Mario & Luigi - Superstar Saga (USA).gba'
+'Mario Golf - Advance Tour (USA).gba'
+'Mario Kart - Super Circuit (USA).gba'
+'Max Payne (USA).gba'
+'Megaman - Battle Network 3 - White Version (USA).gba'
+'Metal Slug Advance (USA).gba'
+'Metroid - Zero Mission (USA).gba'
+'Metroid Fusion (USA).gba'
+'Mother 3 (Japan) (En).gba'
+'Ninja Five-0 (USA).gba'
+'Pinball of the Dead, The (USA).zip'
+'Pokemon - Emerald Version (USA, Europe).gba'
+'Polarium Advance (USA).zip'
+'Rhythm Tengoku (Japan) (Rev 1).zip'
+'Scurge - Hive (USA) (En,Fr,Es).gba'
+'Sonic Advance (Japan) (En,Ja) (Rev 1).gba'
+'Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).zip'
+'Street Fighter Alpha 3 (USA).gba'
+'Super Mario Advance (USA, Europe).gba'
+'Super Mario Advance 2 - Super Mario World (USA, Australia).gba'
+'Sword of Mana (USA, Australia).gba'
+'Tactics Ogre - The Knight of Lodis (USA).gba'
+'Tekken Advance (USA).gba'
+'Wario Land 4 (USA, Europe).gba'
+'WarioWare, Inc. - Mega Microgame$! (USA).gba'
+'WarioWare - Twisted! (USA, Australia).gba'
+
+'./Nintendo - Game Boy Color':
+'Shantae (USA).zip'
+
+'./Nintendo - Nintendo Entertainment System':
+'Blaster Master (USA).zip'
+'Contra (USA).zip'
+'Life Force (USA).zip'
+'Mega Man 2 (USA).zip'
+'Mighty Final Fight (USA).zip'
+"Super Spike V'Ball (USA).zip"
+'Tecmo Super Bowl (USA).zip'
+
+'./Nintendo - Super Nintendo Entertainment System':
+'Aladdin (USA).zip'
+'Breath of Fire II (USA).zip'
+'Chrono Trigger (USA).zip'
+'Contra III - The Alien Wars (USA).zip'
+"Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).zip"
+'EarthBound (USA).zip'
+'F-Zero (USA).zip'
+'Final Fantasy III (USA) (Rev 1).zip'
+'Killer Instinct (USA) (Rev 1).zip'
+"Kirby's Avalanche (USA).zip"
+'Legend of Zelda, The - A Link to the Past (USA).zip'
+'Lemmings (USA) (Rev 1).zip'
+'Mega Man X (USA) (Rev 1).zip'
+'Super Mario RPG - Legend of the Seven Stars (USA).zip'
+'Super Mario World (USA).zip'
+'Super Metroid (Japan, USA) (En,Ja).zip'
+'Super Punch-Out!! (USA).zip'
+'Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).zip'
+'Terranigma (Europe).zip'
+'Tetris Attack (USA) (En,Ja).zip'
+
+'./Sega - 32X':
+'Virtua Fighter (Japan, USA) (En).zip'
+'Virtua Racing Deluxe (USA).zip'
+
+'./Sega - Mega Drive - Genesis':
+'Beyond Oasis (USA).zip'
+'Comix Zone (USA).zip'
+'Crusader of Centy (USA).zip'
+'Kid Chameleon (USA, Europe).zip'
+"Skitchin' (USA, Europe).zip"
+'Sonic The Hedgehog 2 (World) (Rev A).zip'
+'Sonic The Hedgehog 3 (USA).zip'
+'Streets of Rage 2 (USA).zip'
+'Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket) (Unl).zip'
+
+'./Sony - PlayStation':
+'Ape Escape (USA)'
+'Brave Fencer Musashi (USA)'
+'Breath of Fire III (USA)'
+'Breath of Fire IV (USA)'
+"Bust-A-Move '99 (USA)"
+'Castlevania - Symphony of the Night (USA)'
+'Crash Bandicoot (USA)'
+'Crash Bandicoot - Warped (USA)'
+'Crash Bandicoot 2 - Cortex Strikes Back (USA)'
+'Crash Bandicoot 3 - Warped (Europe, Australia) (En,Fr,De,Es,It)'
+'Deception III - Dark Delusion (USA)'
+'Einhaender (USA)'
+'Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)'
+'Final Fantasy IX (USA, Canada) (Disc 2) (Rev 1)'
+'Final Fantasy IX (USA, Canada) (Disc 3) (Rev 1)'
+'Final Fantasy IX (USA, Canada) (Disc 4) (Rev 1)'
+'Final Fantasy Tactics (USA)'
+'Final Fantasy VII (USA) (Disc 1)'
+'Final Fantasy VII (USA) (Disc 2)'
+'Final Fantasy VII (USA) (Disc 3)'
+'Gran Turismo (USA) (Rev 1)'
+'Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)'
+'Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)'
+'Hot Shots Golf (USA)'
+'Klonoa - Door to Phantomile (USA)'
+'Legend of Mana (USA)'
+'Metal Gear Solid (USA) (Disc 1) (Rev 1)'
+'Metal Gear Solid (USA) (Disc 2) (Rev 1)'
+'NFL Blitz (USA)'
+'R4 - Ridge Racer Type 4 (USA)'
+'Resident Evil 2 (USA) (Disc 1)'
+'Resident Evil 2 (USA) (Disc 2)'
+'Silent Hill (USA)'
+'Star Ocean - The Second Story (USA) (Disc 1)'
+'Star Ocean - The Second Story (USA) (Disc 2)'
+'Street Fighter Alpha 3 (USA)'
+'Suikoden (USA) (Rev 1)'
+'Suikoden II (USA)'
+'Tekken 3 (USA)'
+'Tomb Raider (USA) (Rev 6)'
+'Um Jammer Lammy (USA)'
+'Vagrant Story (USA)'
+'Valkyrie Profile (USA) (Disc 1)'
+'Valkyrie Profile (USA) (Disc 2)'
+'Worms Armageddon (USA)'
+'Xenogears (USA) (Disc 1)'
+'Xenogears (USA) (Disc 2)'
+
+'./Sony - PlayStation/Ape Escape (USA)':
+'Ape Escape (USA).bin'
+'Ape Escape (USA).cue'
+
+'./Sony - PlayStation/Brave Fencer Musashi (USA)':
+'Brave Fencer Musashi (USA) (Track 1).bin'
+'Brave Fencer Musashi (USA) (Track 2).bin'
+'Brave Fencer Musashi (USA) (Track 3).bin'
+'Brave Fencer Musashi (USA) (Track 4).bin'
+'Brave Fencer Musashi (USA).cue'
+
+'./Sony - PlayStation/Breath of Fire III (USA)':
+'Breath of Fire III (USA) (Track 1).bin'
+'Breath of Fire III (USA) (Track 2).bin'
+'Breath of Fire III (USA).cue'
+
+'./Sony - PlayStation/Breath of Fire IV (USA)':
+'Breath of Fire IV (USA) (Track 1).bin'
+'Breath of Fire IV (USA) (Track 2).bin'
+'Breath of Fire IV (USA).cue'
+
+"./Sony - PlayStation/Bust-A-Move '99 (USA)":
+"Bust-A-Move '99 (USA) (Track 01).bin"
+"Bust-A-Move '99 (USA) (Track 02).bin"
+"Bust-A-Move '99 (USA) (Track 03).bin"
+"Bust-A-Move '99 (USA) (Track 04).bin"
+"Bust-A-Move '99 (USA) (Track 05).bin"
+"Bust-A-Move '99 (USA) (Track 06).bin"
+"Bust-A-Move '99 (USA) (Track 07).bin"
+"Bust-A-Move '99 (USA) (Track 08).bin"
+"Bust-A-Move '99 (USA) (Track 09).bin"
+"Bust-A-Move '99 (USA) (Track 10).bin"
+"Bust-A-Move '99 (USA) (Track 11).bin"
+"Bust-A-Move '99 (USA) (Track 12).bin"
+"Bust-A-Move '99 (USA) (Track 13).bin"
+"Bust-A-Move '99 (USA) (Track 14).bin"
+"Bust-A-Move '99 (USA) (Track 15).bin"
+"Bust-A-Move '99 (USA) (Track 16).bin"
+"Bust-A-Move '99 (USA) (Track 17).bin"
+"Bust-A-Move '99 (USA) (Track 18).bin"
+"Bust-A-Move '99 (USA) (Track 19).bin"
+"Bust-A-Move '99 (USA) (Track 20).bin"
+"Bust-A-Move '99 (USA).cue"
+
+'./Sony - PlayStation/Castlevania - Symphony of the Night (USA)':
+'Castlevania - Symphony of the Night (USA) (Track 1).bin'
+'Castlevania - Symphony of the Night (USA) (Track 2).bin'
+'Castlevania - Symphony of the Night (USA).cue'
+
+'./Sony - PlayStation/Crash Bandicoot (USA)':
+'Crash Bandicoot (USA).bin'
+'Crash Bandicoot (USA).cue'
+
+'./Sony - PlayStation/Crash Bandicoot - Warped (USA)':
+'Crash Bandicoot - Warped (USA).bin'
+'Crash Bandicoot - Warped (USA).cue'
+
+'./Sony - PlayStation/Crash Bandicoot 2 - Cortex Strikes Back (USA)':
+'Crash Bandicoot 2 - Cortex Strikes Back (USA).bin'
+'Crash Bandicoot 2 - Cortex Strikes Back (USA).cue'
+
+'./Sony - PlayStation/Crash Bandicoot 3 - Warped (Europe, Australia) (En,Fr,De,Es,It)':
+'Crash Bandicoot 3 - Warped (Europe, Australia) (En,Fr,De,Es,It).bin'
+'Crash Bandicoot 3 - Warped (Europe, Australia) (En,Fr,De,Es,It).cue'
+
+'./Sony - PlayStation/Deception III - Dark Delusion (USA)':
+'Deception III - Dark Delusion (USA).bin'
+'Deception III - Dark Delusion (USA).cue'
+
+'./Sony - PlayStation/Einhaender (USA)':
+'Einhaender (USA).bin'
+'Einhaender (USA).cue'
+
+'./Sony - PlayStation/Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)':
+'Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1).bin'
+'Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1).cue'
+
+'./Sony - PlayStation/Final Fantasy IX (USA, Canada) (Disc 2) (Rev 1)':
+'Final Fantasy IX (USA, Canada) (Disc 2) (Rev 1).bin'
+'Final Fantasy IX (USA, Canada) (Disc 2) (Rev 1).cue'
+
+'./Sony - PlayStation/Final Fantasy IX (USA, Canada) (Disc 3) (Rev 1)':
+'Final Fantasy IX (USA, Canada) (Disc 3) (Rev 1).bin'
+'Final Fantasy IX (USA, Canada) (Disc 3) (Rev 1).cue'
+
+'./Sony - PlayStation/Final Fantasy IX (USA, Canada) (Disc 4) (Rev 1)':
+'Final Fantasy IX (USA, Canada) (Disc 4) (Rev 1).bin'
+'Final Fantasy IX (USA, Canada) (Disc 4) (Rev 1).cue'
+
+'./Sony - PlayStation/Final Fantasy Tactics (USA)':
+'Final Fantasy Tactics (USA).bin'
+'Final Fantasy Tactics (USA).cue'
+
+'./Sony - PlayStation/Final Fantasy VII (USA) (Disc 1)':
+'Final Fantasy VII (USA) (Disc 1).bin'
+'Final Fantasy VII (USA) (Disc 1).cue'
+
+'./Sony - PlayStation/Final Fantasy VII (USA) (Disc 2)':
+'Final Fantasy VII (USA) (Disc 2).bin'
+'Final Fantasy VII (USA) (Disc 2).cue'
+
+'./Sony - PlayStation/Final Fantasy VII (USA) (Disc 3)':
+'Final Fantasy VII (USA) (Disc 3).bin'
+'Final Fantasy VII (USA) (Disc 3).cue'
+
+'./Sony - PlayStation/Gran Turismo (USA) (Rev 1)':
+'Gran Turismo (USA) (Rev 1).bin'
+'Gran Turismo (USA) (Rev 1).cue'
+
+'./Sony - PlayStation/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)':
+'Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).bin'
+'Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).cue'
+
+'./Sony - PlayStation/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)':
+'Gran Turismo 2 (USA) (Simulation Mode) (Rev 2).bin'
+'Gran Turismo 2 (USA) (Simulation Mode) (Rev 2).cue'
+
+'./Sony - PlayStation/Hot Shots Golf (USA)':
+'Hot Shots Golf (USA).bin'
+'Hot Shots Golf (USA).cue'
+
+'./Sony - PlayStation/Klonoa - Door to Phantomile (USA)':
+'Klonoa - Door to Phantomile (USA).bin'
+'Klonoa - Door to Phantomile (USA).cue'
+
+'./Sony - PlayStation/Legend of Mana (USA)':
+'Legend of Mana (USA).bin'
+'Legend of Mana (USA).cue'
+
+'./Sony - PlayStation/Metal Gear Solid (USA) (Disc 1) (Rev 1)':
+'Metal Gear Solid (USA) (Disc 1) (Rev 1).bin'
+'Metal Gear Solid (USA) (Disc 1) (Rev 1).cue'
+
+'./Sony - PlayStation/Metal Gear Solid (USA) (Disc 2) (Rev 1)':
+'Metal Gear Solid (USA) (Disc 2) (Rev 1).bin'
+'Metal Gear Solid (USA) (Disc 2) (Rev 1).cue'
+
+'./Sony - PlayStation/NFL Blitz (USA)':
+'NFL Blitz (USA) (Track 1).bin'
+'NFL Blitz (USA) (Track 2).bin'
+'NFL Blitz (USA).cue'
+
+'./Sony - PlayStation/R4 - Ridge Racer Type 4 (USA)':
+'R4 - Ridge Racer Type 4 (USA).bin'
+'R4 - Ridge Racer Type 4 (USA).cue'
+
+'./Sony - PlayStation/Resident Evil 2 (USA) (Disc 1)':
+'Resident Evil 2 (USA) (Disc 1) (Track 1).bin'
+'Resident Evil 2 (USA) (Disc 1) (Track 2).bin'
+'Resident Evil 2 (USA) (Disc 1).cue'
+
+'./Sony - PlayStation/Resident Evil 2 (USA) (Disc 2)':
+'Resident Evil 2 (USA) (Disc 2) (Track 1).bin'
+'Resident Evil 2 (USA) (Disc 2) (Track 2).bin'
+'Resident Evil 2 (USA) (Disc 2).cue'
+
+'./Sony - PlayStation/Silent Hill (USA)':
+'Silent Hill (USA).bin'
+'Silent Hill (USA).cue'
+
+'./Sony - PlayStation/Star Ocean - The Second Story (USA) (Disc 1)':
+'Star Ocean - The Second Story (USA) (Disc 1).bin'
+'Star Ocean - The Second Story (USA) (Disc 1).cue'
+
+'./Sony - PlayStation/Star Ocean - The Second Story (USA) (Disc 2)':
+'Star Ocean - The Second Story (USA) (Disc 2).bin'
+'Star Ocean - The Second Story (USA) (Disc 2).cue'
+
+'./Sony - PlayStation/Street Fighter Alpha 3 (USA)':
+'Street Fighter Alpha 3 (USA) (Track 1).bin'
+'Street Fighter Alpha 3 (USA) (Track 2).bin'
+'Street Fighter Alpha 3 (USA).cue'
+
+'./Sony - PlayStation/Suikoden (USA) (Rev 1)':
+'Suikoden (USA) (Rev 1).bin'
+'Suikoden (USA) (Rev 1).cue'
+
+'./Sony - PlayStation/Suikoden II (USA)':
+'Suikoden II (USA).bin'
+'Suikoden II (USA).cue'
+
+'./Sony - PlayStation/Tekken 3 (USA)':
+'Tekken 3 (USA) (Track 1).bin'
+'Tekken 3 (USA) (Track 2).bin'
+'Tekken 3 (USA) (Track 3).bin'
+'Tekken 3 (USA).cue'
+
+'./Sony - PlayStation/Tomb Raider (USA) (Rev 6)':
+'Tomb Raider (USA) (Rev 6) (Track 01).bin'
+'Tomb Raider (USA) (Rev 6) (Track 02).bin'
+'Tomb Raider (USA) (Rev 6) (Track 03).bin'
+'Tomb Raider (USA) (Rev 6) (Track 04).bin'
+'Tomb Raider (USA) (Rev 6) (Track 05).bin'
+'Tomb Raider (USA) (Rev 6) (Track 06).bin'
+'Tomb Raider (USA) (Rev 6) (Track 07).bin'
+'Tomb Raider (USA) (Rev 6) (Track 08).bin'
+'Tomb Raider (USA) (Rev 6) (Track 09).bin'
+'Tomb Raider (USA) (Rev 6) (Track 10).bin'
+'Tomb Raider (USA) (Rev 6) (Track 11).bin'
+'Tomb Raider (USA) (Rev 6) (Track 12).bin'
+'Tomb Raider (USA) (Rev 6) (Track 13).bin'
+'Tomb Raider (USA) (Rev 6) (Track 14).bin'
+'Tomb Raider (USA) (Rev 6) (Track 15).bin'
+'Tomb Raider (USA) (Rev 6) (Track 16).bin'
+'Tomb Raider (USA) (Rev 6) (Track 17).bin'
+'Tomb Raider (USA) (Rev 6) (Track 18).bin'
+'Tomb Raider (USA) (Rev 6) (Track 19).bin'
+'Tomb Raider (USA) (Rev 6) (Track 20).bin'
+'Tomb Raider (USA) (Rev 6) (Track 21).bin'
+'Tomb Raider (USA) (Rev 6) (Track 22).bin'
+'Tomb Raider (USA) (Rev 6) (Track 23).bin'
+'Tomb Raider (USA) (Rev 6) (Track 24).bin'
+'Tomb Raider (USA) (Rev 6) (Track 25).bin'
+'Tomb Raider (USA) (Rev 6) (Track 26).bin'
+'Tomb Raider (USA) (Rev 6) (Track 27).bin'
+'Tomb Raider (USA) (Rev 6) (Track 28).bin'
+'Tomb Raider (USA) (Rev 6) (Track 29).bin'
+'Tomb Raider (USA) (Rev 6) (Track 30).bin'
+'Tomb Raider (USA) (Rev 6) (Track 31).bin'
+'Tomb Raider (USA) (Rev 6) (Track 32).bin'
+'Tomb Raider (USA) (Rev 6) (Track 33).bin'
+'Tomb Raider (USA) (Rev 6) (Track 34).bin'
+'Tomb Raider (USA) (Rev 6) (Track 35).bin'
+'Tomb Raider (USA) (Rev 6) (Track 36).bin'
+'Tomb Raider (USA) (Rev 6) (Track 37).bin'
+'Tomb Raider (USA) (Rev 6) (Track 38).bin'
+'Tomb Raider (USA) (Rev 6) (Track 39).bin'
+'Tomb Raider (USA) (Rev 6) (Track 40).bin'
+'Tomb Raider (USA) (Rev 6) (Track 41).bin'
+'Tomb Raider (USA) (Rev 6) (Track 42).bin'
+'Tomb Raider (USA) (Rev 6) (Track 43).bin'
+'Tomb Raider (USA) (Rev 6) (Track 44).bin'
+'Tomb Raider (USA) (Rev 6) (Track 45).bin'
+'Tomb Raider (USA) (Rev 6) (Track 46).bin'
+'Tomb Raider (USA) (Rev 6) (Track 47).bin'
+'Tomb Raider (USA) (Rev 6) (Track 48).bin'
+'Tomb Raider (USA) (Rev 6) (Track 49).bin'
+'Tomb Raider (USA) (Rev 6) (Track 50).bin'
+'Tomb Raider (USA) (Rev 6) (Track 51).bin'
+'Tomb Raider (USA) (Rev 6) (Track 52).bin'
+'Tomb Raider (USA) (Rev 6) (Track 53).bin'
+'Tomb Raider (USA) (Rev 6) (Track 54).bin'
+'Tomb Raider (USA) (Rev 6) (Track 55).bin'
+'Tomb Raider (USA) (Rev 6) (Track 56).bin'
+'Tomb Raider (USA) (Rev 6) (Track 57).bin'
+'Tomb Raider (USA) (Rev 6).cue'
+
+'./Sony - PlayStation/Um Jammer Lammy (USA)':
+'Um Jammer Lammy (USA).bin'
+'Um Jammer Lammy (USA).cue'
+
+'./Sony - PlayStation/Vagrant Story (USA)':
+'Vagrant Story (USA).bin'
+'Vagrant Story (USA).cue'
+
+'./Sony - PlayStation/Valkyrie Profile (USA) (Disc 1)':
+'Valkyrie Profile (USA) (Disc 1).bin'
+'Valkyrie Profile (USA) (Disc 1).cue'
+
+'./Sony - PlayStation/Valkyrie Profile (USA) (Disc 2)':
+'Valkyrie Profile (USA) (Disc 2).bin'
+'Valkyrie Profile (USA) (Disc 2).cue'
+
+'./Sony - PlayStation/Worms Armageddon (USA)':
+'Worms Armageddon (USA).bin'
+'Worms Armageddon (USA).cue'
+
+'./Sony - PlayStation/Xenogears (USA) (Disc 1)':
+'Xenogears (USA) (Disc 1).bin'
+'Xenogears (USA) (Disc 1).cue'
+
+'./Sony - PlayStation/Xenogears (USA) (Disc 2)':
+'Xenogears (USA) (Disc 2).bin'
+'Xenogears (USA) (Disc 2).cue'
