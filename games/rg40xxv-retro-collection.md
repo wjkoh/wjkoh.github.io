@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Retro Game Collection for the Anbernic RG40XX V"
+title: "Curing the ROM Hoarder: The Ultimate Game List for the Anbernic XX Series"
 date: 2026-03-13T10:00:00-04:00
 draft: false
 author: "Woojong Koh"
@@ -147,18 +147,19 @@ If you are building an ultimate SD card, ensure you don't miss these essential t
 
 ---
 
-## A Note on Arcade ROMs
+## ⚙️ Final Tips for the Perfect SD Card
 
+### 1. Use the Right Arcade Revisions
 If you are using FinalBurn Neo (and you should be), make sure you are using the correct, stable revisions of games. ROM sets can be messy, but prioritizing these specific files will save you headaches:
+*   **Super SFII Turbo:** Use `ssf2tu` (USA 940323 Revision) to fix bugs from the World release.
+*   **Mortal Kombat II:** Use `mk2` (Revision L3.1) for the most stable arcade version.
+*   **D&D: Shadow over Mystara:** Use `ddsomu` (USA Revision) for English text.
 
-*   **Super SFII Turbo:** Use `ssf2tu` (USA 940323 Revision) - It fixes several bugs from the World release.
-*   **Mortal Kombat II:** Use `mk2` (Revision L3.1) - The most stable and complete arcade version.
-*   **D&D: Shadow over Mystara:** Use `ddsomu` (USA Revision) - Ensures you have English text for the RPG elements.
+### 2. Respect the Save State
+Before you start your 60-hour *Final Fantasy Tactics* run, remember this: **MicroSD cards can fail.** Never rely solely on the in-game save mechanics (SRAM) for your long RPGs. Get into the habit of using RetroArch's Save State shortcuts (usually `Menu + R1`) at the end of every play session.
 
-## 💾 A Final Tip: Respect the Save State
+***
 
-Before you start your 60-hour *Final Fantasy Tactics* run, remember this: **MicroSD cards can fail.** Never rely solely on the in-game save mechanics (SRAM) for your long RPGs. Get into the habit of using RetroArch's Save State shortcuts (usually `Menu + R1`) at the end of every play session, and consider setting up a sync service like Syncthing if your firmware supports it. 
-
-By trimming the fat, removing inferior ports, and focusing on the absolute pinnacles of game design, your RG40XX V transforms from a daunting, unplayable library of ROMs into a highly curated museum of gaming history. 
+By trimming the fat, removing inferior ports, and focusing on the absolute pinnacles of game design, your handheld transforms from a daunting, unplayable library of ROMs into a highly curated museum of gaming history. 
 
 Happy gaming!
