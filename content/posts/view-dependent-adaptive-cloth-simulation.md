@@ -10,5 +10,5 @@ Woojong Koh, Rahul Narain, and James F. O'Brien. IEEE Transactions on Visualizat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71TOPXD9j4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Project website](http://graphics.berkeley.edu/papers/Koh-VDA-2015-10/)
-* Paper: [Preprint](/assets/Koh-VDA-2015-11.pdf), [IEEE DL](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7127098)
+* Paper: [Preprint](/assets/Koh-VDA-2015-10.pdf), [IEEE DL](https://doi.org/10.1109/TVCG.2015.2446482)
 * Video: [YouTube](http://youtu.be/71TOPXD9j4E), [Vimeo](https://vimeo.com/142075649)
