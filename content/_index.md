@@ -48,7 +48,7 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
 
 *   **University of California, Berkeley** 
     *   Ph.D. Candidate (On Leave) in Computer Science *(Aug 2012 – May 2016)*
-    *   M.S. in Computer Science *(May 2016)*
+    *   M.S. in Computer Science *(May 2016)* | Thesis: **[View-Dependent Adaptive Cloth Simulation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html)**
 *   **Seoul National University** 
     *   B.S. in Computer Science and Engineering *(Feb 2012)*
 
@@ -60,5 +60,7 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
     *Woojong Koh, Rahul Narain, and James F. O'Brien.* IEEE Transactions on Visualization and Computer Graphics (TVCG), October 2015.
 *   **View-Dependent Adaptive Cloth Simulation**  
     *Woojong Koh, Rahul Narain, and James F. O'Brien.* ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), July 2014.
+*   **View-Dependent Adaptive Cloth Simulation**  
+    *Woojong Koh.* Master's Thesis, University of California, Berkeley, May 2016. ([Technical Report](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html))
 *   **Near-exhaustive Precomputation of Secondary Cloth Effects**  
     *Doyub Kim, Woojong Koh, Rahul Narain, Kayvon Fatahalian, Adrien Treuille, and James F. O'Brien.* ACM SIGGRAPH 2013, July 2013.
