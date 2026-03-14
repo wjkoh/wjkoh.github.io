@@ -28,7 +28,7 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
 ### [Waymo LLC](https://waymo.com)
 **Software Engineer** *(May 2016 – Jun 2021)*
 *   Deployed vision-based detection systems to the self-driving fleet, unblocking new driving areas by classifying unique, dynamic traffic signals.
-*   **Patented Technology:** Co-invented a machine learning system for autonomous vehicles to detect, classify, and respond to unfamiliar traffic signs in real-time ([US Patent 10,928,828](https://patents.google.com/patent/US20240054772A1)).
+*   **Patented Technology:** Co-invented a machine learning system for autonomous vehicles to detect, classify, and respond to unfamiliar traffic signs in real-time ([US Patent 10,928,828](https://patents.google.com/patent/US20240054772A1)) ([Archive](https://web.archive.org/web/20260314104740/https://patents.google.com/patent/US20240054772A1)).
 
 ### [Nexon Corp.](https://company.nexon.com/en/)
 **Software Engineer** *(Sep 2006 – Apr 2009)*
