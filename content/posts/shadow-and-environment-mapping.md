@@ -2,7 +2,7 @@
 title: "Shadow and Environment Mapping"
 date: 2013-04-01T00:00:00Z
 draft: false
-tags: ["computer-graphics", "course-project"]
+tags: ["graphics", "rendering", "projects"]
 ---
 April 2013
 

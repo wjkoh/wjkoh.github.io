@@ -2,7 +2,7 @@
 title: "Monte Carlo Path Tracing"
 date: 2013-03-01T00:00:00Z
 draft: false
-tags: ["computer-graphics", "course-project"]
+tags: ["graphics", "rendering", "projects"]
 ---
 March 2013
 
