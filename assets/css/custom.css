@@ -1,0 +1,18 @@
+.important-callout {
+    padding: 1rem;
+    margin: 1.5rem 0;
+    border-left: 4px solid #f39c12;
+    background-color: rgba(243, 156, 18, 0.1);
+    border-radius: 4px;
+}
+
+.important-callout strong {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #e67e22;
+    font-size: 1.1em;
+}
+
+.important-callout p {
+    margin: 0;
+}

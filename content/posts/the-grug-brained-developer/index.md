@@ -1,11 +1,22 @@
-> [!IMPORTANT]
-> This is an unofficial Korean translation of [The Grug Brained Developer](https://grugbrain.dev/) by Carson Gross.
+---
+title: "The Grug Brained Developer (Korean Translation)"
+date: 2025-11-10T00:00:00Z
+draft: false
+tags: ["softwareengineering", "programming", "korean"]
+---
 
-[![grug](https://grugbrain.dev/grug.png)](https://www.redbubble.com/i/sticker/Programmer-Grug-by-colossalbreaker/42915272.EJUG5)
+<a href="https://www.redbubble.com/i/sticker/Programmer-Grug-by-colossalbreaker/42915272.EJUG5">
+  <img alt="grug" src="grug.png" style="float: left; height: 120px; margin-right: 20px; margin-bottom: 10px; clear: both; border-radius: 8px;"/>
+</a>
 
 # 그럭 뇌 개발자: 자각 있는 작은 뇌처럼 생각하기 위한 평신도 안내서
 
-[책](https://www.lulu.com/shop/carson-gross/the-grug-brained-developer/paperback/product-2m47wqg.html) | [상품](https://swag.htmx.org/collections/grug)
+<div style="clear: both;"></div>
+
+<div class="important-callout">
+  <strong>Important</strong>
+  <p>This is an unofficial Korean translation of <a href="https://grugbrain.dev/">The Grug Brained Developer</a> by Carson Gross.</p>
+</div>
 
 # 소개
 
@@ -533,5 +544,7 @@ FOLD의 힘을 빼앗으세요. 선임 그럭에게 매우 좋습니다!
 
 *당신이* 말하세요: 복잡성은 *매우*, *매우* 나쁩니다.
 
-> [!IMPORTANT]
-> This is an unofficial Korean translation of [The Grug Brained Developer](https://grugbrain.dev/) by Carson Gross.
+<div class="important-callout">
+  <strong>Important</strong>
+  <p>This is an unofficial Korean translation of <a href="https://grugbrain.dev/">The Grug Brained Developer</a> by Carson Gross.</p>
+</div>
