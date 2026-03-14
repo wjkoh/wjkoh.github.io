@@ -17,17 +17,16 @@ theme = "typo"
   showSummary = true
   showTags = true
   
-  # Hide the large title and menu on all pages except the home page
+  # Global theme settings
   hideHeader = true
+  homeCollection = "posts"
+  homeCollectionTitle = "Latest"
+  paginationSize = 10
 
   [params.breadcrumbs]
     enabled = true
-    home = "Home"
+    home = "Woojong Koh"
     showCurrentPage = false
-
-  homeCollection = "posts"
-  homeCollectionTitle = "Latest"
-  paginationSize = 5
 
   [[params.social]]
     name = "github"
