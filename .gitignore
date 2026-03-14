@@ -9,4 +9,6 @@ resources/
 
 # macOS
 .DS_Store
-\n# Go-Task\n.task/
+
+# Go-Task
+.task/
