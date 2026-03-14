@@ -1,0 +1,17 @@
+version: '3'
+
+tasks:
+  dev:
+    desc: Run Hugo development server
+    cmds:
+      - hugo server -D
+
+  build:
+    desc: Build the static site
+    cmds:
+      - hugo --gc --minify
+
+  clean:
+    desc: Clean build artifacts
+    cmds:
+      - rm -rf public/ resources/

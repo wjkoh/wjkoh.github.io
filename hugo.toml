@@ -1,0 +1,50 @@
+baseURL = "https://wjkoh.com/"
+languageCode = "en-us"
+title = "Woojong Koh"
+theme = "typo"
+
+[pagination]
+  pagerSize = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  author = "Woojong Koh"
+  description = "CEO & Founder of Cowork AI. Software Engineer and Researcher."
+  showSummary = true
+  showTags = true
+  
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/wjkoh"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/wjkoh"
+  [[params.social]]
+    name = "email"
+    url = "mailto:wjkoh@cwrk.ai"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 30
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/assets/woojong-koh-resume.pdf"
+    weight = 40
