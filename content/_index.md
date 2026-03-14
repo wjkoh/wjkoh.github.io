@@ -56,7 +56,7 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
 
 ## 📄 Selected Publications
 
-*   **[View-Dependent Adaptive Cloth Simulation with Buckling Compensation](https://doi.org/10.1109/TVCG.2015.2446482)**  
+*   **[View-Dependent Adaptive Cloth Simulation with Buckling Compensation](/posts/view-dependent-adaptive-cloth-simulation/)**  
     *Woojong Koh, Rahul Narain, and James F. O'Brien.* IEEE Transactions on Visualization and Computer Graphics (TVCG), October 2015.
 *   **View-Dependent Adaptive Cloth Simulation**  
     *Woojong Koh, Rahul Narain, and James F. O'Brien.* ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), July 2014.
