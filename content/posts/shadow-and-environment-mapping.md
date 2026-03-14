@@ -4,7 +4,6 @@ date: 2013-04-01T00:00:00Z
 draft: false
 tags: ["computer graphics", "course project"]
 ---
-## Shadow and Environment Mapping
 April 2013
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qcnALFe154o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

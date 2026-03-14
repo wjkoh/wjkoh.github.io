@@ -4,7 +4,6 @@ date: 2013-03-01T00:00:00Z
 draft: false
 tags: ["computer graphics", "course project"]
 ---
-## Monte Carlo Path Tracing
 March 2013
 
 <a href="/assets/box_diffuse_cos_6400.png"><img src="/assets/box_diffuse_cos_6400.png" style="width:50%"></a>
