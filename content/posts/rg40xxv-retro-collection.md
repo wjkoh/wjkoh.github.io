@@ -3,7 +3,7 @@ title: "Curing the ROM Hoarder: The Ultimate Game List for the Anbernic XX Serie
 date: 2026-03-13T10:00:00-04:00
 draft: false
 author: "Woojong Koh"
-tags: ["retro gaming", "anbernic", "rg40xxv", "emulation", "gaming", "muos"]
+tags: ["retro-gaming", "anbernic", "rg40xxv", "emulation", "gaming", "muos"]
 categories: ["Gaming"]
 description: "A curated guide to the absolute best games to load onto your Anbernic RG40XX V, maximizing the 4-inch 4:3 display."
 ---
