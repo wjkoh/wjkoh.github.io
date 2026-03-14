@@ -5,7 +5,6 @@ draft: false
 tags: ["publication", "computer graphics", "cloth simulation"]
 ---
 
-## View-Dependent Adaptive Cloth Simulation with Buckling Compensation
 Woojong Koh, Rahul Narain, and James F. O'Brien. IEEE Transactions on Visualization and Computer Graphics (TVCG), October 2015.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71TOPXD9j4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
