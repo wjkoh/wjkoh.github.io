@@ -39,6 +39,10 @@ preserveTaxonomyNames = true
     name = "email"
     url = "mailto:wjkoh@cwrk.ai"
 
+  [[params.social]]
+    name = "rss"
+    url = "/index.xml"
+
   [[params.menu]]
     name = "about"
     url = "/"
