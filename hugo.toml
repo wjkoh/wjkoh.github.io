@@ -2,6 +2,7 @@ baseURL = "https://wjkoh.com/"
 languageCode = "en-us"
 title = "Woojong Koh"
 theme = "typo"
+preserveTaxonomyNames = true
 
 [pagination]
   pagerSize = 10
