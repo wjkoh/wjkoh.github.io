@@ -1,7 +1,7 @@
 ---
 title: "Curing the ROM Hoarder: The Ultimate Game List for the Anbernic XX Series"
 date: 2026-03-13T10:00:00-04:00
-draft: false
+draft: true
 author: "Woojong Koh"
 tags: ["retrogaming", "anbernic", "rg40xxv", "emulation", "muos"]
 categories: ["Gaming"]
