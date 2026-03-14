@@ -17,6 +17,10 @@ theme = "typo"
   showSummary = true
   showTags = true
   
+  homeCollection = "posts"
+  homeCollectionTitle = "Latest"
+  paginationSize = 5
+
   [[params.social]]
     name = "github"
     url = "https://github.com/wjkoh"
@@ -27,24 +31,13 @@ theme = "typo"
     name = "email"
     url = "mailto:wjkoh@cwrk.ai"
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
+  [[params.menu]]
+    name = "about"
     url = "/"
-    weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
+  [[params.menu]]
+    name = "posts"
     url = "/posts/"
-    weight = 20
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 30
-  [[menu.main]]
-    identifier = "resume"
-    name = "Resume"
+  [[params.menu]]
+    name = "resume"
     url = "/assets/woojong-koh-resume.pdf"
-    weight = 40
+    newTab = true
