@@ -46,10 +46,10 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
 
 ## 🎓 Education
 
-*   **University of California, Berkeley** 
+*   **[University of California, Berkeley](https://www.berkeley.edu/)** 
     *   Ph.D. Candidate (On Leave) in Computer Science *(Aug 2012 – May 2016)*
     *   M.S. in Computer Science *(May 2016)* | Thesis: **[View-Dependent Adaptive Cloth Simulation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html)** ([Archive](https://web.archive.org/web/20260314100210/https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html))
-*   **Seoul National University** 
+*   **[Seoul National University](https://www.snu.ac.kr/)** 
     *   B.S. in Computer Science and Engineering *(Feb 2012)*
 
 ---
@@ -61,6 +61,6 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
 *   **View-Dependent Adaptive Cloth Simulation**  
     *Woojong Koh, Rahul Narain, and James F. O'Brien.* ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), July 2014.
 *   **[View-Dependent Adaptive Cloth Simulation](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html)** ([Archive](https://web.archive.org/web/20260314100210/https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html))  
-    *Woojong Koh.* Master's Thesis, EECS Department, University of California, Berkeley, Technical Report No. UCB/EECS-2016-5, January 2016.
+    *Woojong Koh.* Master's Thesis, EECS Department, [University of California, Berkeley](https://www.berkeley.edu/), Technical Report No. UCB/EECS-2016-5, January 2016.
 *   **Near-exhaustive Precomputation of Secondary Cloth Effects**  
     *Doyub Kim, Woojong Koh, Rahul Narain, Kayvon Fatahalian, Adrien Treuille, and James F. O'Brien.* ACM SIGGRAPH 2013, July 2013.
