@@ -60,7 +60,7 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
     *Woojong Koh.* Master's Thesis, EECS Department, [University of California, Berkeley](https://www.berkeley.edu/), Technical Report No. UCB/EECS-2016-5, January 2016.
 *   **[View-Dependent Adaptive Cloth Simulation with Buckling Compensation](/posts/view-dependent-adaptive-cloth-simulation/)**  
     *Woojong Koh, Rahul Narain, and James F. O'Brien.* IEEE Transactions on Visualization and Computer Graphics (TVCG), October 2015.
-*   **View-Dependent Adaptive Cloth Simulation**  
+*   **[View-Dependent Adaptive Cloth Simulation](https://doi.org/10.2312/sca.20141134)**  
     *Woojong Koh, Rahul Narain, and James F. O'Brien.* ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), July 2014.
 *   **[Near-exhaustive Precomputation of Secondary Cloth Effects](https://doi.org/10.1145/2461912.2462020)**  
     *Doyub Kim, Woojong Koh, Rahul Narain, Kayvon Fatahalian, Adrien Treuille, and James F. O'Brien.* ACM SIGGRAPH 2013, July 2013.
