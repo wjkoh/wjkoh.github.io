@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Path Tracing"
+title: "Building a Monte Carlo Path Tracer"
 date: 2013-03-01T00:00:00Z
 draft: false
 tags: ["graphics", "rendering", "projects"]

@@ -1,5 +1,5 @@
 ---
-title: "Shadow and Environment Mapping"
+title: "Implementing Real-Time Shadow and Environment Mapping"
 date: 2013-04-01T00:00:00Z
 draft: false
 tags: ["graphics", "rendering", "projects"]
