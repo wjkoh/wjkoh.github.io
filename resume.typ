@@ -1,5 +1,5 @@
 #set document(title: "Resume - Woojong Koh", author: "Woojong Koh")
-#set page(paper: "us-letter", margin: (x: 0.8in, y: 0.8in))
+#set page(paper: "us-letter", margin: (x: 0.8in, y: 0.8in), numbering: "1")
 #set text(size: 10pt)
 #set par(justify: true)
 
