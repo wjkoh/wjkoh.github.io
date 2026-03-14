@@ -39,11 +39,12 @@ CEO and Founder of Cowork AI, focusing on building Agentic AI and LLM-driven tra
 #section("Experience")
 
 #item("Cowork AI, Inc.", "Nov 2022 – Present", "CEO & Founder", "Seoul, South Korea", [
-  - Founded Cowork AI to build Agentic AI and LLM-driven trading systems for US equities and cryptocurrencies.
-  - Launched the *Fred MCP Server*, an integration layer that seamlessly connects foundation models to real-time financial feeds, technical indicators, and alternative data like Reddit and Truth Social.
-  - Supplied the Fred MCP Server to Kakaopay Securities, powering Korea's first AI mobile trading feature that autonomously researches and explains the causes behind sudden stock price movements.
-  - Deployed *Project Hayes*, an autonomous Agentic Trading system actively powering Cowork AI's proprietary trading by monetizing 2nd and 3rd-order market effects ("Information Diffusion") using Knowledge Graphs, RAG, and Chain-of-Thought reasoning.
-  - Released *Fred RAG Agent*, an enterprise-grade, on-premise Agentic RAG solution for financial and accounting firms to securely query proprietary documents alongside live market data.
+  - Founded an AI startup developing Agentic AI and LLM-driven algorithmic trading systems for US equities and cryptocurrencies.
+  - *Project Hayes (Proprietary Trading):* Deployed an autonomous algorithmic trading system that monetizes information diffusion (2nd/3rd-order market effects) using Knowledge Graphs, RAG, and Chain-of-Thought reasoning.
+  - *Fred MCP & RAG Platforms:*
+    - Developed an integration layer connecting foundation models to real-time market feeds, technical indicators, and alternative data sources (Reddit, Truth Social).
+    - Partnered with *Kakaopay Securities* to integrate the Fred MCP Server, powering Korea's first AI mobile trading feature for autonomous stock movement analysis.
+    - Released an enterprise-grade, on-premise secure document querying solution tailored for financial and accounting firms.
 ])
 
 #item("Hashed", "Oct 2021 – Mar 2022", "Entrepreneur in Residence", "Seoul, South Korea", [

@@ -14,11 +14,12 @@ Previously, I was an Entrepreneur in Residence at **[Hashed](https://www.hashed.
 
 ### [Cowork AI, Inc.](https://cwrk.ai/)
 **CEO & Founder** *(Nov 2022 – Present)*
-I founded Cowork AI to bridge the gap between foundation models and live financial markets. 
-*   **Project Hayes:** Deployed an autonomous Agentic Trading system actively powering Cowork AI's proprietary trading. It monetizes 2nd and 3rd-order market effects using **Knowledge Graphs**, **RAG**, and Chain-of-Thought reasoning.
-*   **Fred MCP Server:** Launched an integration layer that seamlessly connects foundation models to real-time financial feeds, technical indicators, and alternative data sources (e.g., Reddit, Truth Social).
-    *   *Partnership:* Supplied the Fred MCP Server to **Kakaopay Securities**, powering Korea's first AI mobile trading feature that autonomously researches and explains the causes behind sudden stock price movements.
-*   **Fred RAG Agent:** Released an enterprise-grade, on-premise Agentic RAG solution tailored for financial and accounting firms.
+*   Founded an AI startup developing Agentic AI and LLM-driven algorithmic trading systems for US equities and cryptocurrencies.
+*   **Project Hayes (Proprietary Trading):** Deployed an autonomous algorithmic trading system that monetizes information diffusion (2nd/3rd-order market effects) using **Knowledge Graphs**, **RAG**, and Chain-of-Thought reasoning.
+*   **Fred MCP & RAG Platforms:**
+    *   Developed an integration layer connecting foundation models to real-time market feeds, technical indicators, and alternative data sources (Reddit, Truth Social).
+    *   Partnered with **Kakaopay Securities** to integrate the Fred MCP Server, powering Korea's first AI mobile trading feature for autonomous stock movement analysis.
+    *   Released an enterprise-grade, on-premise secure document querying solution tailored for financial and accounting firms.
 
 ### [Hashed](https://www.hashed.com)
 **Entrepreneur in Residence** *(Oct 2021 – Mar 2022)*
