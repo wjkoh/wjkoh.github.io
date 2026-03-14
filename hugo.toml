@@ -49,4 +49,4 @@ preserveTaxonomyNames = true
   [[params.menu]]
     name = "resume"
     url = "/assets/woojong-koh-resume.pdf"
-    newTab = true
+    newTab = false
