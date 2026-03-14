@@ -29,7 +29,7 @@
 #align(center)[
   #text(size: 20pt, weight: "bold")[Woojong Koh] 
   #v(0.3em)
-  wjkoh\@cwrk.ai | https://wjkoh.com | github.com/wjkoh | linkedin.com/in/wjkoh
+  wjkoh\@cwrk.ai | #link("https://wjkoh.com")[wjkoh.com] | #link("https://github.com/wjkoh")[github.com/wjkoh] | #link("https://linkedin.com/in/wjkoh")[linkedin.com/in/wjkoh]
 ]
 
 #section("Profile")
