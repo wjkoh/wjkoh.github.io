@@ -38,7 +38,7 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
 
 ## 🛠️ Technical Skills
 
-*   **Agentic AI & Protocols:** Multi-Agent Systems (MAS), Model Context Protocol (MCP), A2A, Google ADK, Gemini CLI, RAG, Knowledge Graphs.
+*   **Agentic AI & Protocols:** Multi-Agent Systems (MAS), MCP, A2A, Google ADK, Gemini CLI, RAG, Knowledge Graphs.
 *   **ML & Infrastructure:** vLLM, llama.cpp, PyTorch, TensorFlow, Vertex AI, Vector Databases (pgvector, SQLite-vector).
 *   **Software & Cloud:** Go, Python, C++, Solidity, gRPC, ConnectRPC, Docker, Nix, PostgreSQL, SQLite, Alpaca API, GCP (Cloud Run, GCE), HTMX, Alpine.js.
 
