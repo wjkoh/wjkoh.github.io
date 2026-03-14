@@ -11,6 +11,15 @@ tasks:
     cmds:
       - hugo --gc --minify
 
+  resume:
+    desc: Build the resume PDF using Typst
+    cmds:
+      - typst compile resume/resume.typ static/assets/woojong-koh-resume.pdf
+    sources:
+      - resume/resume.typ
+    generates:
+      - static/assets/woojong-koh-resume.pdf
+
   clean:
     desc: Clean build artifacts
     cmds:

@@ -19,6 +19,7 @@
             hugo
             go-task
             git
+            typst
           ];
         };
       });
