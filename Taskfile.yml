@@ -14,9 +14,9 @@ tasks:
   resume:
     desc: Build the resume PDF using Typst
     cmds:
-      - typst compile resume/resume.typ static/assets/woojong-koh-resume.pdf
+      - typst compile resume.typ static/assets/woojong-koh-resume.pdf
     sources:
-      - resume/resume.typ
+      - resume.typ
     generates:
       - static/assets/woojong-koh-resume.pdf
 

@@ -38,9 +38,9 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
 
 ## 🛠️ Technical Skills
 
-*   **Agentic AI & Protocols:** Multi-Agent Systems (MAS), Model Context Protocol (MCP), Google ADK, Gemini CLI, RAG, Knowledge Graphs.
+*   **Agentic AI & Protocols:** Multi-Agent Systems (MAS), Model Context Protocol (MCP), A2A, Google ADK, Gemini CLI, RAG, Knowledge Graphs.
 *   **ML & Infrastructure:** vLLM, llama.cpp, PyTorch, TensorFlow, Vertex AI, Vector Databases (pgvector, SQLite-vector).
-*   **Software & Cloud:** Go, Python, C++, Solidity, gRPC, Docker, Nix, PostgreSQL, GCP (Cloud Run, GCE), HTMX, Alpine.js.
+*   **Software & Cloud:** Go, Python, C++, Solidity, gRPC, ConnectRPC, Docker, Nix, PostgreSQL, SQLite, Alpaca API, GCP (Cloud Run, GCE), HTMX, Alpine.js.
 
 ---
 
@@ -50,7 +50,7 @@ I founded Cowork AI to bridge the gap between foundation models and live financi
     *   Ph.D. Candidate (On Leave) in Computer Science *(Aug 2012 – May 2016)*
     *   M.S. in Computer Science *(May 2016)* | Thesis: **[View-Dependent Adaptive Cloth Simulation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html)** ([Archive](https://web.archive.org/web/20260314100210/https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-5.html))
 *   **[Seoul National University](https://www.snu.ac.kr/)** 
-    *   B.S. in Computer Science and Engineering *(Feb 2012)*
+    *   B.S. in Computer Science and Engineering *(Feb 2012)* | Graduated *summa cum laude*
 
 ---
 

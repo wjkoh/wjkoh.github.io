@@ -32,6 +32,10 @@
   wjkoh\@cwrk.ai | https://wjkoh.com | github.com/wjkoh | linkedin.com/in/wjkoh
 ]
 
+#section("Profile")
+
+CEO and Founder of Cowork AI, focusing on building Agentic AI and LLM-driven trading systems for US equities and cryptocurrencies. Previously an Entrepreneur in Residence at Hashed exploring web3 projects, and a Software Engineer at Waymo deploying vision-based machine learning systems directly to the autonomous fleet.
+
 #section("Experience")
 
 #item("Cowork AI, Inc.", "Nov 2022 – Present", "CEO & Founder", "Seoul, South Korea", [
@@ -75,7 +79,7 @@
 
 #section("Technical Skills")
 
-- *Agentic AI & Protocols:* Multi-Agent Systems (MAS), MCP, A2A, Google ADK, Gemini CLI, RAG, Knowledge Graphs.
+- *Agentic AI & Protocols:* Multi-Agent Systems (MAS), Model Context Protocol (MCP), A2A, Google ADK, Gemini CLI, RAG, Knowledge Graphs.
 - *ML & Infrastructure:* vLLM, llama.cpp, PyTorch, TensorFlow, Vertex AI, Vector Databases (pgvector, SQLite-vector).
 - *Software & Cloud:* Go, Python, C++, Solidity, gRPC, ConnectRPC, Docker, Nix, PostgreSQL, SQLite, Alpaca API, GCP (Cloud Run, GCE), HTMX, Alpine.js.
 
