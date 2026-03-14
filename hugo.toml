@@ -17,6 +17,14 @@ theme = "typo"
   showSummary = true
   showTags = true
   
+  # Hide the large title and menu on all pages except the home page
+  hideHeader = true
+
+  [params.breadcrumbs]
+    enabled = true
+    home = "Home"
+    showCurrentPage = false
+
   homeCollection = "posts"
   homeCollectionTitle = "Latest"
   paginationSize = 5
