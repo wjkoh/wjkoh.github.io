@@ -1,6 +1,3 @@
----
-layout: null
----
 User-agent: *
 Disallow: /*.vcf$
-Sitemap: {{ "sitemap.xml" | absolute_url }}
+Sitemap: https://wjkoh.com/sitemap.xml
